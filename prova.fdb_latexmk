@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1647468274 "c:/Users/Riccardo/Desktop/Tesi/tesi/prova.tex" "prova.pdf" "prova" 1647468280
+["pdflatex"] 1647468838 "c:/Users/Riccardo/Desktop/Tesi/tesi/prova.tex" "prova.pdf" "prova" 1647468844
   "Unito-logo.png" 1647465287 280828 fc43c3049f5ca70bb33310a8fec46f63 ""
-  "c:/Users/Riccardo/Desktop/Tesi/tesi/prova.tex" 1647468272 8622 d3a2374638075ccff224da707ac39e3c ""
+  "c:/Users/Riccardo/Desktop/Tesi/tesi/prova.tex" 1647468830 8616 83086643c0ac857f11a3fd880b7cb823 ""
   "d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1646476444 2375 baa924870cfb487815765f9094cf3728 ""
   "d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1646476444 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1646476444 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -147,12 +147,12 @@
   "d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1646481072 4448422 54571103f0b96186db4e866d62c75f14 ""
   "d:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1646481508 2797710 ab5c4ba6517f1a7d21c39d6fc966b691 ""
   "d:/texlive/2021/texmf.cnf" 1646480983 713 e69b156964470283e0530f5060668171 ""
-  "prova.aux" 1647468279 2227 072055087b88abd1448e98a25d6d7ad8 "pdflatex"
-  "prova.lof" 1647468279 130 47a67be23f3598cc046c032a9bf6fac9 "pdflatex"
-  "prova.lot" 1647468279 224 bf311462ef7408d0c2e89337310334db "pdflatex"
-  "prova.out" 1647468279 1038 86df3abdb153ef11239d46701b42a623 "pdflatex"
-  "prova.tex" 1647468272 8622 d3a2374638075ccff224da707ac39e3c ""
-  "prova.toc" 1647468279 649 abb61d77d295591997b1580433db52ab "pdflatex"
+  "prova.aux" 1647468843 2227 072055087b88abd1448e98a25d6d7ad8 "pdflatex"
+  "prova.lof" 1647468843 130 47a67be23f3598cc046c032a9bf6fac9 "pdflatex"
+  "prova.lot" 1647468843 224 bf311462ef7408d0c2e89337310334db "pdflatex"
+  "prova.out" 1647468843 1038 86df3abdb153ef11239d46701b42a623 "pdflatex"
+  "prova.tex" 1647468830 8616 83086643c0ac857f11a3fd880b7cb823 ""
+  "prova.toc" 1647468843 649 abb61d77d295591997b1580433db52ab "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
