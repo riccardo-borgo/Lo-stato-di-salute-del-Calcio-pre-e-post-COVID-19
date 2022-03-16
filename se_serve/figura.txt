@@ -1,0 +1,13 @@
+Le grandezze in gioco sono evidenziate nella figura \ref{fig1}.
+\begin{figure}[ht]\centering
+\setlength{\unitlength}{0.01\textwidth}
+\begin{picture}(40,30)(30,0)
+\put(50,15){\scalebox{2}[1.4]{\circle{20}}}% per un ellisse
+\put(47,15){\circle*{1}}
+\put(30,0){\line(0,1){30}}
+\put(30,30){\line(1,0){40}}
+\put(70,30){\line(0,-1){30}}
+\put(70,0){\line(-1,0){40}}
+\end{picture}
+\caption{Orbita del generico satellite; si noti l'eccentricit\`a dell'orbita rispetto al pianeta.\label{fig1}}
+\end{figure}
