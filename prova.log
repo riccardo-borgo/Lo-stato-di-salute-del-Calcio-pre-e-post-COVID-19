@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.5)  19 MAR 2022 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.5)  19 MAR 2022 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -828,8 +828,11 @@ l.49
  [3
 
 
+] [4
+
+
+
 ]
-Capitolo 1.
 LaTeX Font Info:    Calculating math sizes for size <9.58345> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9.58345> on input line 67.
@@ -837,37 +840,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6.70837> on input line 67.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <4.79172> on input line 67.
-[4
-
-
-
-] [5]
-Capitolo 2.
+ [5] [6]
+Capitolo 1.
 
 Underfull \vbox (badness 2735) has occurred while \output is active []
 
- [6
+ [7
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <8.04996> on input line 128.
+LaTeX Font Info:    Calculating math sizes for size <8.04996> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.63493> on input line 128.
+(Font)              <5.63493> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.02498> on input line 128.
-LaTeX Font Info:    Calculating math sizes for size <6.70837> on input line 131.
+(Font)              <4.02498> on input line 127.
+LaTeX Font Info:    Calculating math sizes for size <6.70837> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <4.69583> on input line 131.
+(Font)              <4.69583> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <3.35419> on input line 131.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 158.
+(Font)              <3.35419> on input line 130.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 157.
  (d:/texlive/2021/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [7] [8]
-Underfull \hbox (badness 4673) in paragraph at lines 185--187
+) [8] [9]
+Underfull \hbox (badness 4673) in paragraph at lines 184--186
 []\T1/lmr/m/n/11.5 Duane J.T., \T1/lmr/m/it/11.5 Lear-ning Cur-ve Ap-proach To Re-lia-bi-li-ty Mo-ni-to-ring\T1/lmr/m/n/11.5 , IEEE
  []
 
-[9
+[10
 
 ] (./prova.aux)
 
@@ -875,12 +874,12 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `prova.out' has not changed.
-(rerunfilecheck)             Checksum: 86DF3ABDB153EF11239D46701B42A623;1038.
+(rerunfilecheck)             Checksum: 9D334CCAF53F807B17AEE9B202FD526E;1061.
  ) 
 Here is how much of TeX's memory you used:
- 14313 strings out of 478276
- 239013 string characters out of 5850490
- 637447 words of memory out of 5000000
+ 14314 strings out of 478276
+ 239014 string characters out of 5850490
+ 637450 words of memory out of 5000000
  32230 multiletter control sequences out of 15000+600000
  584854 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -894,10 +893,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{d:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}<d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr17.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmro10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmss10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on prova.pdf (10 pages, 468318 bytes).
+Output written on prova.pdf (11 pages, 468241 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 208 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
