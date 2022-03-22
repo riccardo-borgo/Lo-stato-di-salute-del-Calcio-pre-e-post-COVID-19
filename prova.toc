@@ -3,9 +3,9 @@
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{Elenco delle tabelle}{2}{section*.1}%
 \contentsline {chapter}{Elenco delle figure}{3}{section*.2}%
-\contentsline {part}{{\fontencoding {T1}\selectfont I}\hspace {1em}Introduzione generale}{4}{part.1}%
-\contentsline {chapter}{\numberline {1}Il barometro}{7}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Generalit\`a}{7}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}Forma del barometro}{7}{subsection.1.1.1}%
-\contentsline {section}{\numberline {1.2}Del mercurio}{8}{section.1.2}%
+\contentsline {chapter}{\numberline {1}Introduzione generale}{4}{chapter.1}%
+\contentsline {part}{{\fontencoding {T1}\selectfont I}\hspace {1em}Parte Prima}{6}{part.1}%
+\contentsline {chapter}{\numberline {2}Situazione economica Europea pre-pandemia da COVID19}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Analisi generale delle diverse realt\'a Europee}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Del mercurio}{7}{section.2.2}%
 \contentsline {chapter}{Bibliografia}{10}{osservazione.1}%
