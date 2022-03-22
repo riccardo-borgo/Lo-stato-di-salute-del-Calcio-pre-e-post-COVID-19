@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1647973533 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1647973537
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1647973525 10166 7b160cca4b294081577e666db7dcc2b9 ""
+["pdflatex"] 1647988674 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1647988678
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1647988666 10154 27af307d5aff09f0b29a351fb09c0234 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1647557608 7032067 0093cb40f4fe54c8e13a0575e2004c82 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -145,12 +145,12 @@
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1647553268 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1647553268 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "Unito-logo.png" 1647467682 280828 469b97ffb02d979530295d896655c9d1 ""
-  "prova.aux" 1647973536 2262 3a2425be96d260dc578b62ce964e7606 "pdflatex"
-  "prova.lof" 1647973536 130 47a67be23f3598cc046c032a9bf6fac9 "pdflatex"
-  "prova.lot" 1647973536 224 2f8affa244b6f96fdf356cf4e5e088aa "pdflatex"
-  "prova.out" 1647973536 1402 b9032bf68dbef1c5286fa0549a9961b5 "pdflatex"
-  "prova.tex" 1647973525 10166 7b160cca4b294081577e666db7dcc2b9 ""
-  "prova.toc" 1647973536 728 f35f1c5f50294a0e1c0ae41f1920ad46 "pdflatex"
+  "prova.aux" 1647988677 2775 ab971bcaaa2345a3d32f775e508e14f8 "pdflatex"
+  "prova.lof" 1647988677 130 47a67be23f3598cc046c032a9bf6fac9 "pdflatex"
+  "prova.lot" 1647988677 224 2f8affa244b6f96fdf356cf4e5e088aa "pdflatex"
+  "prova.out" 1647988677 1774 40877114dcf3957d962a409b91d25106 "pdflatex"
+  "prova.tex" 1647988666 10154 27af307d5aff09f0b29a351fb09c0234 ""
+  "prova.toc" 1647988677 1043 668789cdf92322977377d3c0ce26d7a7 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"

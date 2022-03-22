@@ -1,0 +1,7 @@
+\begin{comment}
+\ifclassica
+\nota{Nota senza numero\dots
+
+\dots e che va a capo.
+}\fi.
+\end{comment}

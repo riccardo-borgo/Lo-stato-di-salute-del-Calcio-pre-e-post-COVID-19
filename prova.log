@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.17)  22 MAR 2022 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.17)  22 MAR 2022 23:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -783,7 +783,7 @@ LaTeX Info: Redefining \nameref on input line 32.
 
 Package monografia Warning: No configuration file found on input line 35.
 
-<Unito-logo.png, id=35, 1204.5pt x 1206.5075pt>
+<Unito-logo.png, id=51, 1204.5pt x 1206.5075pt>
 File: Unito-logo.png Graphic file (type png)
 <use Unito-logo.png>
 Package pdftex.def Info: Unito-logo.png  used on input line 45.
@@ -883,11 +883,16 @@ Capitolo 2.
 [7
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 143.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 124.
  (/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [8] [9]
-Underfull \hbox (badness 4673) in paragraph at lines 172--174
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[]\T1/lmr/m/it/11.5 Identit^^e1 e Missione\T1/lmr/m/n/11.5 , Articolo pubblicato su: "FIGC",
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 155--157
 []\T1/lmr/m/n/11.5 Duane J.T., \T1/lmr/m/it/11.5 Learning Curve Approach To Reliability Monitoring\T1/lmr/m/n/11.5 , IEEE
  []
 
@@ -899,19 +904,16 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
 
 Package rerunfilecheck Info: File `prova.out' has not changed.
-(rerunfilecheck)             Checksum: B9032BF68DBEF1C5286FA0549A9961B5;1402.
+(rerunfilecheck)             Checksum: 40877114DCF3957D962A409B91D25106;1774.
  ) 
 Here is how much of TeX's memory you used:
- 14354 strings out of 480517
- 248827 string characters out of 2893735
- 630955 words of memory out of 3000000
- 32004 multiletter control sequences out of 15000+600000
+ 14363 strings out of 480517
+ 248977 string characters out of 2893735
+ 630984 words of memory out of 3000000
+ 32009 multiletter control sequences out of 15000+600000
  570520 words of font info for 83 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 138i,14n,134p,509b,473s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
-
+ 138i,14n,134p,509b,477s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
 
@@ -919,9 +921,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmss10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
-Output written on prova.pdf (11 pages, 489976 bytes).
+Output written on prova.pdf (11 pages, 491943 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 215 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
