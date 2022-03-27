@@ -16,6 +16,7 @@
 \usepackage{verbatim}
 \usepackage{pgfplots}
 \usepackage{graphicx}
+\usepackage{subfig}
 \onehalfspacing
 
 \hypersetup{
@@ -106,7 +107,7 @@ Ronaldo. Anche guardando "in casa nostra", per\'o, non eravamo da meno: Alessand
 Dal punto di vista economico non \'e possibile rintracciare un singolo momento della storia (da trent'anni a questa parte) dove 
 non si registrasse un singolo fallimento di una societ\'a. Come per le societ1'a di produzione, una squadra di calcio fallisce quando non
 \'e pi\'u in grado di far fronte ai propri debiti. Solamente a partire dalla stagione 2013/2014 sono 38 i club falliti e 71 invece i club penalizzati \footnote{https://www.calcioefinanza.it/2018/07/18/fallimenti-squadre-calcio-italia/}. 
-Se, invece, estendiamo il fronte temporale a partire dal 1986, come possiamo notare dal grafico \ref{fig: grafico_fallimenti} \footnote{https://www.truenumbers.it/fallimenti-calcio-italiano/}
+Se, invece, estendiamo il fronte temporale a partire dal 1986, come possiamo notare dalla figura \ref{fig: grafico_fallimenti} \footnote{https://www.truenumbers.it/fallimenti-calcio-italiano/}
 i fallimenti delle società italiane in Lega Pro, Serie B e Serie A salgono a 175, il peggior valore tra i 5 maggiori campionati europei. 
 Sono solamente 2 gli anni dove non troviamo squadre fallite (1992 e 1999), mentre il peggior valore lo troviamo nell'anno 2010 con ben 21 club andati in bancarotta
 in un solo anno. Tramite la legenda \'e possibile inoltre visualizzare immediatamente come il campionato con il maggior numero di fallimenti sia
@@ -124,7 +125,7 @@ Il motivo di tutto questo \'e possibile riassumerlo in una parola sola: \emph{ma
 \'e innegabile che tutti i club abbiano delle colpe: cattivi investimenti, inequit\'a negli stipendi 
 e sopratutto interessi esterni da parte dei presidenti che vedono i club come un modo per arricchirsi senza per\'o 
 pensare alle conseguenze delle proprie azioni.\\
-Nel grafico \ref{fig: aumento_dirigenti} \footnote{https://www.truenumbers.it/squadre-calcio-italia-arbitri/} è possibile invece 
+Nella figura \ref{fig: aumento_dirigenti} \footnote{https://www.truenumbers.it/squadre-calcio-italia-arbitri/} è possibile invece 
 osservare come, a partire dal 2009, il numero dei dirigenti sia aumentato esponenzialmente 
 rispetto a quello delle squadre affiliate alla FIGC. Questo comporta ovviamente un aumento delle spese necessarie alla remunerazione
 di queste figure, andando quindi a mettere ancora più pressione alle casse dei club con minori disponibilit\'a economiche. 
@@ -196,30 +197,43 @@ mostra in termini numerici i risultati di vent'anni della cosiddetta malagestion
 Per quanto riguarda invece la Francia, l'organizzazione che si occupa del monitoraggio e la supervisione dei conti 
 delle società calcistiche di associazioni di calcio in Francia è la DNCG \footnote{Direction Nationale du Contrôle de Gestion}. Essa 
 pubblica ogni stagione un report riassuntivo per quanto riguarda la Ligue 1 e la Ligue 2 (i primi due campionati francesi) ed una
-relazione relativa ad ogni singolo club dei due campionati. \\
+relazione relativa ad ogni singolo club dei due campionati. Tutti i dati di seguito riportati sono stati reperiti dai singoli
+report annuali pubblicati \footnote{https://www.lfp.fr/dncg/rapports} \\
+I risultati della stagione appena conclusa vengono riassunti con la figura \ref{ris_generali_2019}:
+\begin{figure}
+    \centering
+    \includegraphics[scale=.5]{img/ris_generali_2019}
+    \caption{Risultati generali combinati 2018/2019}
+    \label{ris_generali_2019}
+\end{figure}
 Al termine della stagione 2018/2019 il risultato netto "consolidato" ammontava a -160 mln€, in miglioramento per\'o del 9\% rispetto 
-all'anno prima (-176)
-\subsection{Spagna}
-\subsection{Inghiterra}
-\subsection{Germania}
+all'anno prima (-176). Questo risultato, come indicato prima, \'e il risultato della sottrazione tra ricevi e costi d'esercizio
+dei due campionati; andando ad analizzare 
+nello specifico i due risultati \'e possibile notare come la Ligue 1 abbia osservato un incremento del 20\% del risultato netto
+consolidato rispetto alla stagione precedente ma la Ligue 2 ha dovuto affrontare un calo del 90\% del Net Profit, andando quindi completamente
+ad annullare il risultato positivo del campionato superiore. Questo risultato molto negativo \'e spiegabile tramite la comparazione 
+dei grafici che mostrano la composizione del Net Income nella stagione 18/19 e precedente mostrato nella figura \ref{comp_income}.
+\begin{figure}
+    \centering
+    \subfloat[][\emph{Composizione Net Income stagione 2017/2018}]
+    {\includegraphics[width=.45\textwidth]{img/net_income_2018.png}} \quad
+    \subfloat[][\emph{Composizione Net Income stagione 2017/2018}]
+    {\includegraphics[width=.45\textwidth]{img/net_income_2019.png}}
+    \caption{Comparazione Risultato Netto (Net Income)}
+    \label{comp_income}  
+\end{figure}
 
-
-
-
+La perdita registrata nella stagione 18/19 \'e la seconda in termini di importanza a partire dalla stagione 2013/2014 e
+il motivo principale che spiega questa discesa cos\'i decisa, \'e da attribuirsi ad un aumento delle entrate (\emph{Income}),
+con un valore che passa da 304 mln€ nel 17/18 a 316 mln€ nel 18/19, che per\'o non riesce a controllare l'aumento pi\'u considerevole
+delle spese (\emph{Expenses}), sopratutto nella parte dedicata alle spese dei club (stipendi di giocatori e commissioni degli agenti) 
+e nella parte delle "Altre spese" (\emph{Other Expenses}) che aumentano rispettivamente di 5 e 9 mln€. Inoltre, osservando le due figure,
+si pu\'o notare come nella prima stagione la parte di spese relativa ai club e la voce "Altre spese" andasse a portare a 0 il profitto,
+mentre nella stagione successiva gi\'a solo queste due voci vanno a creare una perdita.\\
+%dati sui biglietti venduti
+%spiegazione finale su quello che è successo
 \end{interlinea}
 
-\appendix
-
-\begin{thebibliography}{9}
-\bibitem{gal} G.~Galilei, {\em Nuovi studii sugli astri medicei}, Manuzio,
-        Venetia, 1612.
-\bibitem{tor1} E.~Torricelli, in ``La pressione barometrica'', {\em Strumenti
-        Moderni}, Il Porcellino, Firenze, 1606.
-\bibitem{tor2} E.~Torricelli e A.~Vasari, in ``Delle misure'', {\em Atti Nuovo
-        Cimento}, vol.~III, n.~2 (feb. 1607), p.~27--31.
-\bibitem{duane1964} Duane J.T., \emph{Learning Curve Approach To Reliability 
-		Monitoring}, IEEE Transactions on Aerospace, Vol. 2, pp. 563-566, 1964
-\end{thebibliography}
 
 
 

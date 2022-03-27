@@ -1,0 +1,12 @@
+\appendix
+
+\begin{thebibliography}{9}
+\bibitem{gal} G.~Galilei, {\em Nuovi studii sugli astri medicei}, Manuzio,
+        Venetia, 1612.
+\bibitem{tor1} E.~Torricelli, in ``La pressione barometrica'', {\em Strumenti
+        Moderni}, Il Porcellino, Firenze, 1606.
+\bibitem{tor2} E.~Torricelli e A.~Vasari, in ``Delle misure'', {\em Atti Nuovo
+        Cimento}, vol.~III, n.~2 (feb. 1607), p.~27--31.
+\bibitem{duane1964} Duane J.T., \emph{Learning Curve Approach To Reliability 
+		Monitoring}, IEEE Transactions on Aerospace, Vol. 2, pp. 563-566, 1964
+\end{thebibliography}

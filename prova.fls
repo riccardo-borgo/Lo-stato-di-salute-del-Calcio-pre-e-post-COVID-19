@@ -948,6 +948,41 @@ INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/gene
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/subfig/subfig.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
@@ -1190,7 +1225,6 @@ INPUT ./img/grafico_fallimenti.png
 INPUT ./img/grafico_fallimenti.png
 INPUT ./img/grafico_fallimenti.png
 INPUT ./img/grafico_fallimenti.png
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT ./img/aumento_dirigenti.png
 INPUT ./img/aumento_dirigenti.png
 INPUT img/aumento_dirigenti.png
@@ -1198,11 +1232,32 @@ INPUT ./img/aumento_dirigenti.png
 INPUT ./img/aumento_dirigenti.png
 INPUT ./img/aumento_dirigenti.png
 INPUT ./img/aumento_dirigenti.png
+INPUT ./img/ris_generali_2019.png
+INPUT img/ris_generali_2019.png
+INPUT ./img/ris_generali_2019.png
+INPUT ./img/ris_generali_2019.png
+INPUT ./img/ris_generali_2019.png
+INPUT ./img/ris_generali_2019.png
+INPUT ./img/net_income_2018.png
+INPUT ./img/net_income_2018.png
+INPUT img/net_income_2018.png
+INPUT ./img/net_income_2018.png
+INPUT ./img/net_income_2018.png
+INPUT ./img/net_income_2018.png
+INPUT ./img/net_income_2018.png
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT ./img/net_income_2019.png
+INPUT ./img/net_income_2019.png
+INPUT img/net_income_2019.png
+INPUT ./img/net_income_2019.png
+INPUT ./img/net_income_2019.png
+INPUT ./img/net_income_2019.png
+INPUT ./img/net_income_2019.png
 INPUT prova.aux
 INPUT ./prova.out
 INPUT ./prova.out
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
@@ -1217,6 +1272,8 @@ INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb
