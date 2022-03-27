@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  27 MAR 2022 16:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  27 MAR 2022 20:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1155,7 +1155,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7
 
 ] [8]
-<img/grafico_fallimenti.png, id=121, 769.87625pt x 447.6725pt>
+<img/grafico_fallimenti.png, id=125, 769.87625pt x 447.6725pt>
 File: img/grafico_fallimenti.png Graphic file (type png)
 <use img/grafico_fallimenti.png>
 Package pdftex.def Info: img/grafico_fallimenti.png  used on input line 119.
@@ -1174,18 +1174,18 @@ Overfull \hbox (10.3119pt too wide) in paragraph at lines 124--135
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./img/grafico_fallimenti.png>]
-<img/aumento_dirigenti.png, id=129, 803.0pt x 560.0925pt>
+<img/aumento_dirigenti.png, id=133, 803.0pt x 560.0925pt>
 File: img/aumento_dirigenti.png Graphic file (type png)
 <use img/aumento_dirigenti.png>
 Package pdftex.def Info: img/aumento_dirigenti.png  used on input line 137.
 (pdftex.def)             Requested size: 401.49902pt x 280.04556pt.
  [10 <./img/aumento_dirigenti.png>]
-<img/ris_generali_2019.png, id=141, 755.82375pt x 467.7475pt>
+<img/ris_generali_2019.png, id=145, 755.82375pt x 467.7475pt>
 File: img/ris_generali_2019.png Graphic file (type png)
 <use img/ris_generali_2019.png>
 Package pdftex.def Info: img/ris_generali_2019.png  used on input line 205.
 (pdftex.def)             Requested size: 377.91095pt x 233.87317pt.
-<img/net_income_2018.png, id=143, 755.82375pt x 467.7475pt>
+<img/net_income_2018.png, id=147, 755.82375pt x 467.7475pt>
 File: img/net_income_2018.png Graphic file (type png)
 <use img/net_income_2018.png>
 Package pdftex.def Info: img/net_income_2018.png  used on input line 219.
@@ -1195,7 +1195,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--219
 []\T1/lmr/m/n/9.58345 (a) |\T1/lmr/m/it/9.58345 Composizione Net Income stagione
  []
 
-<img/net_income_2019.png, id=144, 755.82375pt x 467.7475pt>
+<img/net_income_2019.png, id=148, 755.82375pt x 467.7475pt>
 File: img/net_income_2019.png Graphic file (type png)
 <use img/net_income_2019.png>
 Package pdftex.def Info: img/net_income_2019.png  used on input line 221.
@@ -1206,14 +1206,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--221
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 226--235
-
- []
-
+<img/stipendi_ligue1.png, id=156, 566.115pt x 443.6575pt>
+File: img/stipendi_ligue1.png Graphic file (type png)
+<use img/stipendi_ligue1.png>
+Package pdftex.def Info: img/stipendi_ligue1.png  used on input line 242.
+(pdftex.def)             Requested size: 283.05681pt x 221.8282pt.
 
 Underfull \vbox (badness 2626) has occurred while \output is active []
 
- [12 <./img/ris_generali_2019.png>] [13 <./img/net_income_2018.png> <./img/net_income_2019.png>] (prova.aux)
+ [12 <./img/ris_generali_2019.png>] [13 <./img/net_income_2018.png> <./img/net_income_2019.png>] [14 <./img/stipendi_ligue1.png>] (prova.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1222,10 +1223,10 @@ Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: 03F26A5C60788F593ED2478613AD4E08;1358.
  ) 
 Here is how much of TeX's memory you used:
- 36146 strings out of 480517
- 848405 string characters out of 2893735
- 1285988 words of memory out of 3000000
- 53425 multiletter control sequences out of 15000+600000
+ 36156 strings out of 480517
+ 848633 string characters out of 2893735
+ 1286223 words of memory out of 3000000
+ 53432 multiletter control sequences out of 15000+600000
  569023 words of font info for 82 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  138i,14n,134p,751b,673s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1257,9 +1258,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb>
-Output written on prova.pdf (14 pages, 796060 bytes).
+Output written on prova.pdf (15 pages, 820207 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 112 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 117 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1648391973 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1648391978
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1648391964 15195 fe49c6a24c17d47c187e0af98633b9fa ""
+["pdflatex"] 1648405280 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1648405286
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1648405269 16538 4402ddad271941a91c12203d3741081a ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -254,12 +254,13 @@
   "img/net_income_2018.png" 1648383533 148795 50bb798b85ba4baff511cf043c638e3f ""
   "img/net_income_2019.png" 1648383520 125860 91475ea0816a0fa438024dcde88e6c80 ""
   "img/ris_generali_2019.png" 1648388116 158493 196329445e1c38de052f56418425664b ""
-  "prova.aux" 1648391978 3613 5f964f6f7a266955ec892dc9cae1baf4 "pdflatex"
-  "prova.lof" 1648391978 713 1e6e8bf1c60fef1ec27d36b09980eec5 "pdflatex"
-  "prova.lot" 1648391978 269 43b074dfa5a6a036cffc80a9bc107fcb "pdflatex"
-  "prova.out" 1648391978 1358 03f26a5c60788f593ed2478613ad4e08 "pdflatex"
-  "prova.tex" 1648391964 15195 fe49c6a24c17d47c187e0af98633b9fa ""
-  "prova.toc" 1648391978 751 cc4b924ffc21e6810984642facc3854b "pdflatex"
+  "img/stipendi_ligue1.png" 1648404465 57702 b1be3cfa64fe44b82944e5bcd94800df ""
+  "prova.aux" 1648405285 4213 bc253346df79a2f093d7a3fa13854795 "pdflatex"
+  "prova.lof" 1648405285 1003 12a6c03550ae29a06a0c6d838a6737c8 "pdflatex"
+  "prova.lot" 1648405285 269 43b074dfa5a6a036cffc80a9bc107fcb "pdflatex"
+  "prova.out" 1648405285 1358 03f26a5c60788f593ed2478613ad4e08 "pdflatex"
+  "prova.tex" 1648405269 16538 4402ddad271941a91c12203d3741081a ""
+  "prova.toc" 1648405285 751 cc4b924ffc21e6810984642facc3854b "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
