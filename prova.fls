@@ -1245,7 +1245,6 @@ INPUT ./img/net_income_2018.png
 INPUT ./img/net_income_2018.png
 INPUT ./img/net_income_2018.png
 INPUT ./img/net_income_2018.png
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT ./img/net_income_2019.png
 INPUT ./img/net_income_2019.png
 INPUT img/net_income_2019.png
@@ -1260,11 +1259,32 @@ INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
+INPUT ./img/bundes_entrate.png
+INPUT ./img/bundes_entrate.png
+INPUT img/bundes_entrate.png
+INPUT ./img/bundes_entrate.png
+INPUT ./img/bundes_entrate.png
+INPUT ./img/bundes_entrate.png
+INPUT ./img/bundes_entrate.png
+INPUT ./img/ris_bundes.png
+INPUT ./img/ris_bundes.png
+INPUT img/ris_bundes.png
+INPUT ./img/ris_bundes.png
+INPUT ./img/ris_bundes.png
+INPUT ./img/ris_bundes.png
+INPUT ./img/ris_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
+INPUT img/club_ris_pos_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
+INPUT ./img/club_ris_pos_bundes.png
 INPUT prova.aux
 INPUT ./prova.out
 INPUT ./prova.out
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
@@ -1279,8 +1299,6 @@ INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb

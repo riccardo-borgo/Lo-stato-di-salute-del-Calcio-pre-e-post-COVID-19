@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  28 MAR 2022 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  30 MAR 2022 23:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1155,7 +1155,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7
 
 ] [8]
-<img/grafico_fallimenti.png, id=130, 769.87625pt x 447.6725pt>
+<img/grafico_fallimenti.png, id=132, 769.87625pt x 447.6725pt>
 File: img/grafico_fallimenti.png Graphic file (type png)
 <use img/grafico_fallimenti.png>
 Package pdftex.def Info: img/grafico_fallimenti.png  used on input line 119.
@@ -1174,39 +1174,39 @@ Overfull \hbox (10.3119pt too wide) in paragraph at lines 124--135
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./img/grafico_fallimenti.png>]
-<img/aumento_dirigenti.png, id=138, 803.0pt x 560.0925pt>
+<img/aumento_dirigenti.png, id=140, 803.0pt x 560.0925pt>
 File: img/aumento_dirigenti.png Graphic file (type png)
 <use img/aumento_dirigenti.png>
 Package pdftex.def Info: img/aumento_dirigenti.png  used on input line 137.
 (pdftex.def)             Requested size: 401.49902pt x 280.04556pt.
  [10 <./img/aumento_dirigenti.png>]
-<img/ris_generali_2019.png, id=150, 755.82375pt x 467.7475pt>
+<img/ris_generali_2019.png, id=152, 755.82375pt x 467.7475pt>
 File: img/ris_generali_2019.png Graphic file (type png)
 <use img/ris_generali_2019.png>
 Package pdftex.def Info: img/ris_generali_2019.png  used on input line 205.
 (pdftex.def)             Requested size: 377.91095pt x 233.87317pt.
-<img/net_income_2018.png, id=152, 755.82375pt x 467.7475pt>
+<img/net_income_2018.png, id=154, 755.82375pt x 467.7475pt>
 File: img/net_income_2018.png Graphic file (type png)
 <use img/net_income_2018.png>
 Package pdftex.def Info: img/net_income_2018.png  used on input line 219.
 (pdftex.def)             Requested size: 190.12474pt x 117.65744pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 219--219
-[]\T1/lmr/m/n/9.58345 (a) |\T1/lmr/m/it/9.58345 Composizione Net Income stagione
+[]\T1/lmr/m/n/9.58345 (a) |Composizione Net Income stagione
  []
 
-<img/net_income_2019.png, id=153, 755.82375pt x 467.7475pt>
+<img/net_income_2019.png, id=155, 755.82375pt x 467.7475pt>
 File: img/net_income_2019.png Graphic file (type png)
 <use img/net_income_2019.png>
 Package pdftex.def Info: img/net_income_2019.png  used on input line 221.
 (pdftex.def)             Requested size: 190.12474pt x 117.65744pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--221
-[]\T1/lmr/m/n/9.58345 (b) |\T1/lmr/m/it/9.58345 Composizione Net Income stagione
+Underfull \hbox (badness 7851) in paragraph at lines 221--221
+[]\T1/lmr/m/n/9.58345 (b) |Composizione Net Income stagione
  []
 
 [11]
-<img/stipendi_ligue1.png, id=161, 566.115pt x 443.6575pt>
+<img/stipendi_ligue1.png, id=163, 566.115pt x 443.6575pt>
 File: img/stipendi_ligue1.png Graphic file (type png)
 <use img/stipendi_ligue1.png>
 Package pdftex.def Info: img/stipendi_ligue1.png  used on input line 244.
@@ -1219,7 +1219,26 @@ Overfull \hbox (9.17673pt too wide) in paragraph at lines 250--265
 \T1/lmr/m/n/11.5 Ripartendo dall'ultimo indicatore analizzato e collegandolo al primo ^^e9 possibile constatare
  []
 
-[14 <./img/stipendi_ligue1.png>] [15] (prova.aux)
+[14 <./img/stipendi_ligue1.png>]
+<img/bundes_entrate.png, id=189, 796.9775pt x 277.035pt>
+File: img/bundes_entrate.png Graphic file (type png)
+<use img/bundes_entrate.png>
+Package pdftex.def Info: img/bundes_entrate.png  used on input line 277.
+(pdftex.def)             Requested size: 398.48776pt x 138.51715pt.
+<img/ris_bundes.png, id=191, 684.5575pt x 223.83624pt>
+File: img/ris_bundes.png Graphic file (type png)
+<use img/ris_bundes.png>
+Package pdftex.def Info: img/ris_bundes.png  used on input line 288.
+(pdftex.def)             Requested size: 316.87674pt x 103.61485pt.
+<img/club_ris_pos_bundes.png, id=192, 684.5575pt x 118.4425pt>
+File: img/club_ris_pos_bundes.png Graphic file (type png)
+<use img/club_ris_pos_bundes.png>
+Package pdftex.def Info: img/club_ris_pos_bundes.png  used on input line 290.
+(pdftex.def)             Requested size: 316.87674pt x 54.82759pt.
+
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [15] [16 <./img/bundes_entrate.png> <./img/ris_bundes.png> <./img/club_ris_pos_bundes.png>] (prova.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1228,13 +1247,16 @@ Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: 6936EB4B591D2FF13CAD6E54B21867A8;1458.
  ) 
 Here is how much of TeX's memory you used:
- 36161 strings out of 480517
- 848698 string characters out of 2893735
- 1286223 words of memory out of 3000000
- 53433 multiletter control sequences out of 15000+600000
- 569023 words of font info for 82 fonts, out of 8000000 for 9000
+ 36188 strings out of 480517
+ 849326 string characters out of 2893735
+ 1286389 words of memory out of 3000000
+ 53452 multiletter control sequences out of 15000+600000
+ 564760 words of font info for 81 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 138i,14n,134p,751b,673s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 138i,14n,134p,751b,623s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
 
@@ -1268,10 +1290,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb>
-Output written on prova.pdf (16 pages, 825573 bytes).
+{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb>
+Output written on prova.pdf (17 pages, 951292 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
