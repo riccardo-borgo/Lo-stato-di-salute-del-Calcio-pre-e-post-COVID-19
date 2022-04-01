@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  30 MAR 2022 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  1 APR 2022 19:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1155,7 +1155,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7
 
 ] [8]
-<img/grafico_fallimenti.png, id=132, 769.87625pt x 447.6725pt>
+<img/grafico_fallimenti.png, id=136, 769.87625pt x 447.6725pt>
 File: img/grafico_fallimenti.png Graphic file (type png)
 <use img/grafico_fallimenti.png>
 Package pdftex.def Info: img/grafico_fallimenti.png  used on input line 119.
@@ -1174,18 +1174,18 @@ Overfull \hbox (10.3119pt too wide) in paragraph at lines 124--135
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./img/grafico_fallimenti.png>]
-<img/aumento_dirigenti.png, id=140, 803.0pt x 560.0925pt>
+<img/aumento_dirigenti.png, id=144, 803.0pt x 560.0925pt>
 File: img/aumento_dirigenti.png Graphic file (type png)
 <use img/aumento_dirigenti.png>
 Package pdftex.def Info: img/aumento_dirigenti.png  used on input line 137.
 (pdftex.def)             Requested size: 401.49902pt x 280.04556pt.
  [10 <./img/aumento_dirigenti.png>]
-<img/ris_generali_2019.png, id=152, 755.82375pt x 467.7475pt>
+<img/ris_generali_2019.png, id=156, 755.82375pt x 467.7475pt>
 File: img/ris_generali_2019.png Graphic file (type png)
 <use img/ris_generali_2019.png>
 Package pdftex.def Info: img/ris_generali_2019.png  used on input line 205.
 (pdftex.def)             Requested size: 377.91095pt x 233.87317pt.
-<img/net_income_2018.png, id=154, 755.82375pt x 467.7475pt>
+<img/net_income_2018.png, id=158, 755.82375pt x 467.7475pt>
 File: img/net_income_2018.png Graphic file (type png)
 <use img/net_income_2018.png>
 Package pdftex.def Info: img/net_income_2018.png  used on input line 219.
@@ -1195,7 +1195,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 219--219
 []\T1/lmr/m/n/9.58345 (a) |Composizione Net Income stagione
  []
 
-<img/net_income_2019.png, id=155, 755.82375pt x 467.7475pt>
+<img/net_income_2019.png, id=159, 755.82375pt x 467.7475pt>
 File: img/net_income_2019.png Graphic file (type png)
 <use img/net_income_2019.png>
 Package pdftex.def Info: img/net_income_2019.png  used on input line 221.
@@ -1206,7 +1206,7 @@ Underfull \hbox (badness 7851) in paragraph at lines 221--221
  []
 
 [11]
-<img/stipendi_ligue1.png, id=163, 566.115pt x 443.6575pt>
+<img/stipendi_ligue1.png, id=167, 566.115pt x 443.6575pt>
 File: img/stipendi_ligue1.png Graphic file (type png)
 <use img/stipendi_ligue1.png>
 Package pdftex.def Info: img/stipendi_ligue1.png  used on input line 244.
@@ -1219,26 +1219,41 @@ Overfull \hbox (9.17673pt too wide) in paragraph at lines 250--265
 \T1/lmr/m/n/11.5 Ripartendo dall'ultimo indicatore analizzato e collegandolo al primo ^^e9 possibile constatare
  []
 
-[14 <./img/stipendi_ligue1.png>]
-<img/bundes_entrate.png, id=189, 796.9775pt x 277.035pt>
+[14 <./img/stipendi_ligue1.png>] [15]
+<img/bundes_entrate.png, id=198, 796.9775pt x 277.035pt>
 File: img/bundes_entrate.png Graphic file (type png)
 <use img/bundes_entrate.png>
-Package pdftex.def Info: img/bundes_entrate.png  used on input line 277.
+Package pdftex.def Info: img/bundes_entrate.png  used on input line 278.
 (pdftex.def)             Requested size: 398.48776pt x 138.51715pt.
-<img/ris_bundes.png, id=191, 684.5575pt x 223.83624pt>
+
+Overfull \hbox (0.14001pt too wide) in paragraph at lines 282--286
+\T1/lmr/m/n/11.5 dalla stagione precedente tuttavia sono diminuiti, anche se di poco, i ricavi da pubblicit^^e1
+ []
+
+
+Overfull \hbox (11.33913pt too wide) in paragraph at lines 282--286
+\T1/lmr/m/n/11.5 e incontri, imputabile in modo prevalente ad un cambio della composizione del campionato
+ []
+
+<img/ris_bundes.png, id=200, 684.5575pt x 223.83624pt>
 File: img/ris_bundes.png Graphic file (type png)
 <use img/ris_bundes.png>
-Package pdftex.def Info: img/ris_bundes.png  used on input line 288.
+Package pdftex.def Info: img/ris_bundes.png  used on input line 290.
 (pdftex.def)             Requested size: 316.87674pt x 103.61485pt.
-<img/club_ris_pos_bundes.png, id=192, 684.5575pt x 118.4425pt>
+<img/club_ris_pos_bundes.png, id=201, 684.5575pt x 118.4425pt>
 File: img/club_ris_pos_bundes.png Graphic file (type png)
 <use img/club_ris_pos_bundes.png>
-Package pdftex.def Info: img/club_ris_pos_bundes.png  used on input line 290.
+Package pdftex.def Info: img/club_ris_pos_bundes.png  used on input line 292.
 (pdftex.def)             Requested size: 316.87674pt x 54.82759pt.
+<img/bunde_spese_ricavi_club.png, id=204, 684.5575pt x 466.74374pt>
+File: img/bunde_spese_ricavi_club.png Graphic file (type png)
+<use img/bunde_spese_ricavi_club.png>
+Package pdftex.def Info: img/bunde_spese_ricavi_club.png  used on input line 306.
+(pdftex.def)             Requested size: 342.27791pt x 233.37129pt.
 
-Underfull \vbox (badness 2469) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15] [16 <./img/bundes_entrate.png> <./img/ris_bundes.png> <./img/club_ris_pos_bundes.png>] (prova.aux)
+ [16 <./img/bundes_entrate.png> <./img/ris_bundes.png> <./img/club_ris_pos_bundes.png>] [17 <./img/bunde_spese_ricavi_club.png>] [18] (prova.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1247,13 +1262,16 @@ Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: 6936EB4B591D2FF13CAD6E54B21867A8;1458.
  ) 
 Here is how much of TeX's memory you used:
- 36188 strings out of 480517
- 849326 string characters out of 2893735
- 1286389 words of memory out of 3000000
- 53452 multiletter control sequences out of 15000+600000
+ 36200 strings out of 480517
+ 849638 string characters out of 2893735
+ 1286471 words of memory out of 3000000
+ 53459 multiletter control sequences out of 15000+600000
  564760 words of font info for 81 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 138i,14n,134p,751b,623s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 138i,14n,134p,751b,621s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
 
@@ -1291,9 +1309,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb>
-Output written on prova.pdf (17 pages, 951292 bytes).
+Output written on prova.pdf (19 pages, 1150855 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 

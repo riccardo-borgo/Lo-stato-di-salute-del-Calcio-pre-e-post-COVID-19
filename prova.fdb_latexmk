@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1648677474 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1648677480
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1648677472 20336 539f24d3465b69bce7e457a3bc290aff ""
+["pdflatex"] 1648832582 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1648832587
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1648832580 23285 8d34d3f7d48b1bc16a10142f5b7791c3 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -247,6 +247,7 @@
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1647553268 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "img/Unito-logo.png" 1647467682 280828 469b97ffb02d979530295d896655c9d1 ""
   "img/aumento_dirigenti.png" 1648303173 111162 f3e2ee9c9f3fec77a77576a97203ca0f ""
+  "img/bunde_spese_ricavi_club.png" 1648831376 330710 8471b7d10b3a7e09751d943eae11ea07 ""
   "img/bundes_entrate.png" 1648676526 156602 a7efeb6eb9bb1913262e1369bb5b4658 ""
   "img/club_ris_pos_bundes.png" 1648677081 23914 3c7a135412d672ca2f8626f95ef848b8 ""
   "img/grafico_fallimenti.png" 1648226260 76675 c2aab6034771560f6655c7c11d08e212 ""
@@ -256,12 +257,12 @@
   "img/ris_bundes.png" 1648677092 70516 3efdd052c12a802ea9ed5f6bb277b1e1 ""
   "img/ris_generali_2019.png" 1648388116 158493 196329445e1c38de052f56418425664b ""
   "img/stipendi_ligue1.png" 1648404465 57702 b1be3cfa64fe44b82944e5bcd94800df ""
-  "prova.aux" 1648677480 4757 026cd9c056bfec798c878d594933eb1e "pdflatex"
-  "prova.lof" 1648677480 1157 d3c3e777ea907d9c7deb4e9854cf0f65 "pdflatex"
-  "prova.lot" 1648677480 269 43b074dfa5a6a036cffc80a9bc107fcb "pdflatex"
-  "prova.out" 1648677480 1458 6936eb4b591d2ff13cad6e54b21867a8 "pdflatex"
-  "prova.tex" 1648677472 20336 539f24d3465b69bce7e457a3bc290aff ""
-  "prova.toc" 1648677480 830 e95ac4eea3c29502ff0dc1f3c270ad25 "pdflatex"
+  "prova.aux" 1648832587 5217 bc0e50c31e66facc8b13154317169bc7 "pdflatex"
+  "prova.lof" 1648832587 1416 204a774e6f7913b28fcc44ba25a80508 "pdflatex"
+  "prova.lot" 1648832587 269 43b074dfa5a6a036cffc80a9bc107fcb "pdflatex"
+  "prova.out" 1648832587 1458 6936eb4b591d2ff13cad6e54b21867a8 "pdflatex"
+  "prova.tex" 1648832580 23285 8d34d3f7d48b1bc16a10142f5b7791c3 ""
+  "prova.toc" 1648832587 830 e95ac4eea3c29502ff0dc1f3c270ad25 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
