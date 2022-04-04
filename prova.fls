@@ -1192,16 +1192,12 @@ INPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx12.tfm
 OUTPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmcsc10.tfm
-INPUT ./prova.lot
-INPUT prova.lot
-INPUT prova.lot
-OUTPUT prova.lot
 INPUT ./prova.lof
 INPUT prova.lof
 INPUT prova.lof
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri12.tfm
 OUTPUT prova.lof
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr8.tfm
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr10.tfm
@@ -1225,6 +1221,20 @@ INPUT ./img/ris_italia.png
 INPUT ./img/ris_italia.png
 INPUT ./img/ris_italia.png
 INPUT ./img/ris_italia.png
+INPUT ./img/wage_serieA.png
+INPUT ./img/wage_serieA.png
+INPUT img/wage_serieA.png
+INPUT ./img/wage_serieA.png
+INPUT ./img/wage_serieA.png
+INPUT ./img/wage_serieA.png
+INPUT ./img/wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
+INPUT img/diff_wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
+INPUT ./img/diff_wage_serieA.png
 INPUT ./img/ris_generali_2019.png
 INPUT img/ris_generali_2019.png
 INPUT ./img/ris_generali_2019.png
@@ -1252,13 +1262,27 @@ INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
 INPUT ./img/stipendi_ligue1.png
-INPUT ./img/bundes_entrate.png
-INPUT ./img/bundes_entrate.png
-INPUT img/bundes_entrate.png
-INPUT ./img/bundes_entrate.png
-INPUT ./img/bundes_entrate.png
-INPUT ./img/bundes_entrate.png
-INPUT ./img/bundes_entrate.png
+INPUT ./img/ris_germania.png
+INPUT ./img/ris_germania.png
+INPUT img/ris_germania.png
+INPUT ./img/ris_germania.png
+INPUT ./img/ris_germania.png
+INPUT ./img/ris_germania.png
+INPUT ./img/ris_germania.png
+INPUT ./img/wage_germanyA.png
+INPUT ./img/wage_germanyA.png
+INPUT img/wage_germanyA.png
+INPUT ./img/wage_germanyA.png
+INPUT ./img/wage_germanyA.png
+INPUT ./img/wage_germanyA.png
+INPUT ./img/wage_germanyA.png
+INPUT ./img/wage_germanyB.png
+INPUT ./img/wage_germanyB.png
+INPUT img/wage_germanyB.png
+INPUT ./img/wage_germanyB.png
+INPUT ./img/wage_germanyB.png
+INPUT ./img/wage_germanyB.png
+INPUT ./img/wage_germanyB.png
 INPUT ./img/total_income_spain.png
 INPUT ./img/total_income_spain.png
 INPUT img/total_income_spain.png
@@ -1266,13 +1290,23 @@ INPUT ./img/total_income_spain.png
 INPUT ./img/total_income_spain.png
 INPUT ./img/total_income_spain.png
 INPUT ./img/total_income_spain.png
+INPUT ./img/wage_spain.png
+INPUT ./img/wage_spain.png
+INPUT img/wage_spain.png
+INPUT ./img/wage_spain.png
+INPUT ./img/wage_spain.png
+INPUT ./img/wage_spain.png
+INPUT ./img/wage_spain.png
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbxi10.tfm
 INPUT prova.aux
 INPUT ./prova.out
 INPUT ./prova.out
-INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb
