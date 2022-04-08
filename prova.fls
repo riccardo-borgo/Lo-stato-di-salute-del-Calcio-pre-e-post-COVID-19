@@ -1249,13 +1249,6 @@ INPUT ./img/wage_germanyB.png
 INPUT ./img/wage_germanyB.png
 INPUT ./img/wage_germanyB.png
 INPUT ./img/wage_germanyB.png
-INPUT ./img/total_income_spain.png
-INPUT ./img/total_income_spain.png
-INPUT img/total_income_spain.png
-INPUT ./img/total_income_spain.png
-INPUT ./img/total_income_spain.png
-INPUT ./img/total_income_spain.png
-INPUT ./img/total_income_spain.png
 INPUT ./img/wage_spain.png
 INPUT ./img/wage_spain.png
 INPUT img/wage_spain.png
@@ -1264,6 +1257,13 @@ INPUT ./img/wage_spain.png
 INPUT ./img/wage_spain.png
 INPUT ./img/wage_spain.png
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbxi10.tfm
+INPUT ./img/ricavi_premier.png
+INPUT ./img/ricavi_premier.png
+INPUT img/ricavi_premier.png
+INPUT ./img/ricavi_premier.png
+INPUT ./img/ricavi_premier.png
+INPUT ./img/ricavi_premier.png
+INPUT ./img/ricavi_premier.png
 INPUT prova.aux
 INPUT ./prova.out
 INPUT ./prova.out
