@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  10 APR 2022 01:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  10 APR 2022 11:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1044,12 +1044,6 @@ LaTeX Warning: Label `eqn: indeb_barca' multiply defined.
 
 LaTeX Warning: Label `eqn: marg_strutt_barca' multiply defined.
 
-
-LaTeX Warning: Label `eqn: indeb_barca' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_barca' multiply defined.
-
 )
 \openout1 = `prova.aux'.
 
@@ -1547,41 +1541,52 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: img/CE_city.png Graphic file (type png)
 <use img/CE_city.png>
 Package pdftex.def Info: img/CE_city.png  used on input line 622.
-(pdftex.def)             Requested size: 513.41687pt x 205.76825pt.
-
-Overfull \hbox (90.91455pt too wide) in paragraph at lines 622--623
- [][] 
- []
-
+(pdftex.def)             Requested size: 410.72722pt x 164.61208pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 619--626
 
  []
 
 [32 <./img/CE_city.png>]
-<img/SP_city.png, id=418, 1026.83624pt x 544.0325pt>
+<img/SP_city.png, id=419, 1026.83624pt x 544.0325pt>
 File: img/SP_city.png Graphic file (type png)
 <use img/SP_city.png>
-Package pdftex.def Info: img/SP_city.png  used on input line 642.
-(pdftex.def)             Requested size: 513.41687pt x 272.01558pt.
+Package pdftex.def Info: img/SP_city.png  used on input line 645.
+(pdftex.def)             Requested size: 410.72722pt x 217.60915pt.
 
-Overfull \hbox (90.91455pt too wide) in paragraph at lines 642--643
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 639--646
+Underfull \hbox (badness 10000) in paragraph at lines 642--649
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 655--656
-
- []
+LaTeX Warning: Command \textsterling invalid in math mode on input line 650.
 
 [33 <./img/SP_city.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 667--668
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
 
+ []
+
+
+LaTeX Warning: Command \textsterling invalid in math mode on input line 667.
+
+
+Overfull \hbox (3.82779pt too wide) in paragraph at lines 669--673
+\T1/lmr/m/n/12 positivo, stando a significare un buon grado di autonomia rispetto ai finanziatori
+ []
+
+
+Overfull \hbox (2.87753pt too wide) in paragraph at lines 669--673
+\T1/lmr/m/n/12 immateriali e finanziarie) non siano per^^f3 completamente coperte dal Patrimonio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
+
+ []
+
+
+Overfull \hbox (16.92041pt too wide) in paragraph at lines 681--686
+\T1/lmr/m/n/12 considera il risultato netto, si "salva" grazie ai profitti sulla cessione di registrazione
  []
 
 [34] (prova.aux)
@@ -1592,10 +1597,10 @@ Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: AC49164D7632B5E4FB5E9010C0F311A1;1804.
  ) 
 Here is how much of TeX's memory you used:
- 37195 strings out of 480517
- 864024 string characters out of 2893735
- 1300340 words of memory out of 3000000
- 54302 multiletter control sequences out of 15000+600000
+ 37197 strings out of 480517
+ 864064 string characters out of 2893735
+ 1300437 words of memory out of 3000000
+ 54304 multiletter control sequences out of 15000+600000
  589785 words of font info for 90 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  138i,14n,134p,751b,736s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1675,7 +1680,7 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on prova.pdf (35 pages, 3186249 bytes).
+Output written on prova.pdf (35 pages, 3187784 bytes).
 PDF statistics:
  545 PDF objects out of 1000 (max. 8388607)
  170 named destinations out of 1000 (max. 500000)

@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1649548791 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1649548800
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1649548777 53014 9cce184c6bcb6d42480b2c11281a2e4e ""
+["pdflatex"] 1649583887 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1649583896
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1649583873 54041 3d090a5a8623eeb45cd4667ceaa166f2 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -289,11 +289,11 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1649548799 11759 0ed5e7e0b5377f8df67ad1e7e58aedc0 "pdflatex"
-  "prova.lof" 1649548799 2192 7d50e7f889fe29a979efc13a8e0ab658 "pdflatex"
-  "prova.out" 1649548799 1804 ac49164d7632b5e4fb5e9010c0f311a1 "pdflatex"
-  "prova.tex" 1649548777 53014 9cce184c6bcb6d42480b2c11281a2e4e ""
-  "prova.toc" 1649548799 1033 0f4a8a55f603c5851309394ba55d83d8 "pdflatex"
+  "prova.aux" 1649583896 11757 e1020b6ded05a898b2e06cf599d4bf72 "pdflatex"
+  "prova.lof" 1649583896 2192 7d50e7f889fe29a979efc13a8e0ab658 "pdflatex"
+  "prova.out" 1649583896 1804 ac49164d7632b5e4fb5e9010c0f311a1 "pdflatex"
+  "prova.tex" 1649583873 54041 3d090a5a8623eeb45cd4667ceaa166f2 ""
+  "prova.toc" 1649583896 1033 0f4a8a55f603c5851309394ba55d83d8 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
