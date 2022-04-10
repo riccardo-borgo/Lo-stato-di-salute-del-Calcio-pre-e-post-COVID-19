@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  10 APR 2022 11:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  10 APR 2022 16:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1010,41 +1010,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 LaTeX Warning: Unused global option(s):
     [corpo,tipotesi,stile].
 
-(prova.aux
-
-LaTeX Warning: Label `eqn: indeb_juve' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_juve' multiply defined.
-
-
-LaTeX Warning: Label `ce_juve' multiply defined.
-
-
-LaTeX Warning: Label `eqn: indeb_juve' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_juve' multiply defined.
-
-
-LaTeX Warning: Label `eqn: indeb_dor' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_dor' multiply defined.
-
-
-LaTeX Warning: Label `eqn: indeb_barca' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_barca' multiply defined.
-
-
-LaTeX Warning: Label `eqn: indeb_barca' multiply defined.
-
-
-LaTeX Warning: Label `eqn: marg_strutt_barca' multiply defined.
-
-)
+(prova.aux)
 \openout1 = `prova.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -1195,413 +1161,399 @@ l.55
 
 ]
 Capitolo 1.
-LaTeX Font Info:    Calculating math sizes for size <10.00012> on input line 74.
+LaTeX Font Info:    Calculating math sizes for size <10.00012> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.00012> on input line 74.
+(Font)              <10.00012> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.00005> on input line 74.
+(Font)              <7.00005> on input line 75.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.00006> on input line 74.
+(Font)              <5.00006> on input line 75.
 
-Overfull \hbox (14.2031pt too wide) in paragraph at lines 60--84
-\T1/lmr/m/n/12 Il primo capitolo mira ad analizzare la situazione economica, finanziaria e patrimoniale,
+Underfull \hbox (badness 3557) in paragraph at lines 76--76
+[][]\T1/lmr/m/n/10.00012 Wikpedia: https://it.wikipedia.org/wiki/Union_of_European_Football_Associations, I
+ []
+
+
+Overfull \hbox (14.09846pt too wide) in paragraph at lines 60--93
+\T1/lmr/m/n/12 del calcio europeo prima e dopo l'avvento della pandemia COVID19 che ha sicuramente
  []
 
 [3
 
 
 
-] [4] [5
+] [4] [5] [6
 
 ]
 Capitolo 2.
-
-Underfull \hbox (badness 3557) in paragraph at lines 96--96
-[][]\T1/lmr/m/n/10.00012 Wikpedia: https://it.wikipedia.org/wiki/Union_of_European_Football_Associations, I
- []
-
-<img/wage_serieA.png, id=141, 806.01125pt x 340.27126pt>
+<img/wage_serieA.png, id=146, 806.01125pt x 340.27126pt>
 File: img/wage_serieA.png Graphic file (type png)
 <use img/wage_serieA.png>
-Package pdftex.def Info: img/wage_serieA.png  used on input line 127.
+Package pdftex.def Info: img/wage_serieA.png  used on input line 124.
 (pdftex.def)             Requested size: 232.37756pt x 98.09981pt.
-<img/diff_wage_serieA.png, id=142, 329.23pt x 427.5975pt>
+<img/diff_wage_serieA.png, id=147, 329.23pt x 427.5975pt>
 File: img/diff_wage_serieA.png Graphic file (type png)
 <use img/diff_wage_serieA.png>
-Package pdftex.def Info: img/diff_wage_serieA.png  used on input line 129.
+Package pdftex.def Info: img/diff_wage_serieA.png  used on input line 126.
 (pdftex.def)             Requested size: 105.62558pt x 137.1798pt.
 
-Underfull \hbox (badness 3439) in paragraph at lines 129--129
+Underfull \hbox (badness 3439) in paragraph at lines 126--126
 []\T1/lmr/m/n/10.00012 (b) |Confronto stipendi
  []
 
-
-Overfull \hbox (0.71576pt too wide) in paragraph at lines 88--134
-\T1/lmr/m/n/12 Il primo paese preso in esame ^^e9 l'\T1/lmr/bx/n/12 Italia\T1/lmr/m/n/12 , la quale presenta una situazione decisamente
- []
-
-
-Overfull \hbox (23.21106pt too wide) in paragraph at lines 88--134
-\T1/lmr/m/n/12 societ^^e1 e spesso sono proprio loro che consentono alle societ^^e1 di crescere economicamente.
- []
-
-
-Overfull \hbox (12.36238pt too wide) in paragraph at lines 88--134
-\T1/lmr/m/n/12 Passando invece all'argomento \T1/lmr/bx/n/12 stipendi \T1/lmr/m/n/12 la FIGC non fornisce un resoconto dettagliato
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7] [8]
-<img/stipendi_ligue1.png, id=169, 566.115pt x 443.6575pt>
+<img/stipendi_ligue1.png, id=153, 566.115pt x 443.6575pt>
 File: img/stipendi_ligue1.png Graphic file (type png)
 <use img/stipendi_ligue1.png>
-Package pdftex.def Info: img/stipendi_ligue1.png  used on input line 157.
+Package pdftex.def Info: img/stipendi_ligue1.png  used on input line 153.
 (pdftex.def)             Requested size: 283.05681pt x 221.8282pt.
-<img/wage_germanyA.png, id=173, 677.53125pt x 132.495pt>
+<img/wage_germanyA.png, id=157, 677.53125pt x 132.495pt>
 File: img/wage_germanyA.png Graphic file (type png)
 <use img/wage_germanyA.png>
-Package pdftex.def Info: img/wage_germanyA.png  used on input line 190.
+Package pdftex.def Info: img/wage_germanyA.png  used on input line 185.
 (pdftex.def)             Requested size: 274.62392pt x 53.70465pt.
-<img/wage_germanyB.png, id=174, 677.53125pt x 132.495pt>
+<img/wage_germanyB.png, id=158, 677.53125pt x 132.495pt>
 File: img/wage_germanyB.png Graphic file (type png)
 <use img/wage_germanyB.png>
-Package pdftex.def Info: img/wage_germanyB.png  used on input line 192.
+Package pdftex.def Info: img/wage_germanyB.png  used on input line 187.
 (pdftex.def)             Requested size: 274.62392pt x 53.70465pt.
 
-Underfull \hbox (badness 4048) in paragraph at lines 204--204
+Underfull \hbox (badness 4048) in paragraph at lines 199--199
 [][]\T1/lmr/m/n/10.00012 Tutti i dati provengono da: https://www.laliga.com/en-GB/transparency/economic-
  []
 
 
-Overfull \hbox (27.39508pt too wide) in paragraph at lines 135--211
-[]\T1/lmr/m/n/12 Per quanto riguarda invece la \T1/lmr/bx/n/12 Francia\T1/lmr/m/n/12 , l'organizzazione che si occupa del monitoraggio
+Overfull \hbox (12.36238pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 Passando invece all'argomento \T1/lmr/bx/n/12 stipendi \T1/lmr/m/n/12 la FIGC non fornisce un resoconto dettagliato
  []
 
 
-Overfull \hbox (1.86382pt too wide) in paragraph at lines 135--211
-\T1/lmr/m/n/12 constatare, come per l'Italia, che i grandi investimenti spesso non portano al successo
+Overfull \hbox (12.39508pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 Per quanto riguarda invece la \T1/lmr/bx/n/12 Francia\T1/lmr/m/n/12 , l'organizzazione che si occupa del monitoraggio
  []
 
 
-Overfull \hbox (13.5356pt too wide) in paragraph at lines 135--211
+Overfull \hbox (0.6931pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 nelle competizioni internazionali non sono state all'altezza: nella stagione 2018/2019
+ []
+
+
+Overfull \hbox (13.5356pt too wide) in paragraph at lines 97--206
 \T1/lmr/m/n/12 Il terzo Paese e di conseguenza ambiente calcistico che verr^^e1 analizzato ^^e9 la \T1/lmr/bx/n/12 Germania\T1/lmr/m/n/12 ,
  []
 
 
-Overfull \hbox (11.38293pt too wide) in paragraph at lines 135--211
+Overfull \hbox (11.38293pt too wide) in paragraph at lines 97--206
 \T1/lmr/m/n/12 Questo campionato, come pochi in Europa, possiede davvero poche criticit^^e1. Iniziando
  []
 
 
-Overfull \hbox (4.74371pt too wide) in paragraph at lines 135--211
-\T1/lmr/m/n/12 pubblicit^^e1 e incontri, imputabile in modo prevalente ad un cambio della composizione
+Overfull \hbox (0.4353pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 tuttavia, sono diminuiti anche se di poco, i ricavi da pubblicit^^e1 e incontri, imputabile
  []
 
 
-Overfull \hbox (0.88957pt too wide) in paragraph at lines 135--211
-\T1/lmr/m/n/12 complessivo degli stipendi dei calciatori e staff sia cresciuto in entrambi i campionati,
+Overfull \hbox (25.98352pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 Passando alla seconda parte dell'analisi, \T1/lmr/bx/n/12 gli stipendi \T1/lmr/m/n/12 non seguono lo stesso ragionamento
  []
 
 
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Overfull \hbox (6.43678pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 tedesche sono sempre riuscite a ritagliarsi il proprio spazio nelle competizioni europee,
+ []
 
- [9 <./img/wage_serieA.png> <./img/diff_wage_serieA.png>] [10]
+
+Overfull \hbox (4.08925pt too wide) in paragraph at lines 97--206
+\T1/lmr/m/n/12 tuttavia anticipare gi^^e1 da ora, come in nessuno stato, non si possa trovare similitudini
+ []
+
+[7
+
+] [8] [9 <./img/wage_serieA.png> <./img/diff_wage_serieA.png>] [10]
 Underfull \vbox (badness 1077) has occurred while \output is active []
 
  [11 <./img/stipendi_ligue1.png>] [12 <./img/wage_germanyA.png> <./img/wage_germanyB.png>] [13]
 <img/wage_spain.png, id=217, 605.26125pt x 352.31625pt>
 File: img/wage_spain.png Graphic file (type png)
 <use img/wage_spain.png>
-Package pdftex.def Info: img/wage_spain.png  used on input line 231.
+Package pdftex.def Info: img/wage_spain.png  used on input line 226.
 (pdftex.def)             Requested size: 302.62987pt x 176.15768pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--247
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
 [][]\T1/lmr/m/n/10.00012 https://www2.deloitte.com/global/en/pages/about-deloitte/articles/annual-review-of-
  []
 
 <img/ricavi_premier.png, id=221, 645.41125pt x 326.21875pt>
 File: img/ricavi_premier.png Graphic file (type png)
 <use img/ricavi_premier.png>
-Package pdftex.def Info: img/ricavi_premier.png  used on input line 260.
+Package pdftex.def Info: img/ricavi_premier.png  used on input line 252.
 (pdftex.def)             Requested size: 322.70483pt x 163.10896pt.
 
-Overfull \hbox (15.5953pt too wide) in paragraph at lines 226--277
+Overfull \hbox (15.5953pt too wide) in paragraph at lines 221--266
 \T1/lmr/m/n/12 elaborata un'analisi dettagliata degli stipendi. Nel documento viene indicato solamente
  []
 
 
-Overfull \hbox (3.98979pt too wide) in paragraph at lines 226--277
+Overfull \hbox (3.98979pt too wide) in paragraph at lines 221--266
 \T1/lmr/m/n/12 Come ultimo elemento compreso in questa prima analisi suddivisa per Paesi troviamo
  []
 
 
-Overfull \hbox (1.50482pt too wide) in paragraph at lines 226--277
+Overfull \hbox (1.50482pt too wide) in paragraph at lines 221--266
 \T1/lmr/m/n/12 Iniziando a presentare i dati riguardanti l'analisi, la societ^^e1 Deloitte tramite l'\T1/lmr/m/it/12 Annual
  []
 
 
-Overfull \hbox (2.32483pt too wide) in paragraph at lines 226--277
+Overfull \hbox (3.0106pt too wide) in paragraph at lines 221--266
+\T1/lmr/m/n/12 Sempre all'intrerno dell'analisi prodotta da Deloitte ^^e9 contenuto un approfondimento
+ []
+
+
+Overfull \hbox (2.32483pt too wide) in paragraph at lines 221--266
 \T1/lmr/m/n/12 preoccupare, se si analizzano a fondo si pu^^f3 notare come gi^^e1 dalla stagione 2018/2019
  []
 
 
-Overfull \hbox (0.10625pt too wide) in paragraph at lines 226--277
-\T1/lmr/m/n/12 creare un ritorno economico, Questa pratica, aggravata dall'avvento della pandemia,
+Underfull \hbox (badness 10000) in paragraph at lines 221--266
+
  []
 
 [14 <./img/wage_spain.png>]
 Underfull \vbox (badness 3568) has occurred while \output is active []
 
- [15]
-Underfull \vbox (badness 2478) has occurred while \output is active []
-
- [16 <./img/ricavi_premier.png>] [17]
-Underfull \hbox (badness 10000) in paragraph at lines 294--298
+ [15] [16 <./img/ricavi_premier.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 283--287
 
  []
 
-<img/CE_juve.png, id=252, 653.44125pt x 548.0475pt>
+<img/CE_juve.png, id=242, 653.44125pt x 548.0475pt>
 File: img/CE_juve.png Graphic file (type png)
 <use img/CE_juve.png>
-Package pdftex.def Info: img/CE_juve.png  used on input line 305.
+Package pdftex.def Info: img/CE_juve.png  used on input line 294.
 (pdftex.def)             Requested size: 261.37187pt x 219.2151pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--309
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
 
  []
 
-
-Overfull \hbox (19.30869pt too wide) in paragraph at lines 327--327
+[17]
+Overfull \hbox (19.30869pt too wide) in paragraph at lines 316--316
 [][]\T1/lmr/m/n/10.00012 TransferMarket: https://www.transfermarkt.it/ac-florenz/besucherzahlenentwicklung/verein/430| 
  []
 
-[18]
-<img/SP_attivo_juve.png, id=267, 653.44125pt x 589.20125pt>
+[18 <./img/CE_juve.png>]
+<img/SP_attivo_juve.png, id=266, 653.44125pt x 589.20125pt>
 File: img/SP_attivo_juve.png Graphic file (type png)
 <use img/SP_attivo_juve.png>
-Package pdftex.def Info: img/SP_attivo_juve.png  used on input line 333.
+Package pdftex.def Info: img/SP_attivo_juve.png  used on input line 322.
 (pdftex.def)             Requested size: 190.12474pt x 171.43037pt.
-<img/SP_passivo_juve.png, id=268, 653.44125pt x 589.20125pt>
+<img/SP_passivo_juve.png, id=267, 653.44125pt x 589.20125pt>
 File: img/SP_passivo_juve.png Graphic file (type png)
 <use img/SP_passivo_juve.png>
-Package pdftex.def Info: img/SP_passivo_juve.png  used on input line 335.
+Package pdftex.def Info: img/SP_passivo_juve.png  used on input line 324.
 (pdftex.def)             Requested size: 190.12474pt x 171.43037pt.
- [19 <./img/CE_juve.png>] [20 <./img/SP_attivo_juve.png> <./img/SP_passivo_juve.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+ [19 <./img/SP_attivo_juve.png> <./img/SP_passivo_juve.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
 
-Overfull \hbox (1.1105pt too wide) in paragraph at lines 364--369
+Overfull \hbox (1.1105pt too wide) in paragraph at lines 353--358
 \T1/lmr/m/n/12 causa del risultato in rosso dell'anno precedente il Patrimonio Netto ^^e9 diminuito
  []
 
 
-Overfull \hbox (25.56296pt too wide) in paragraph at lines 364--369
+Overfull \hbox (25.56296pt too wide) in paragraph at lines 353--358
 \T1/lmr/m/n/12 Struttura visualizza invece la capacit^^e1 dei mezzi propri di coprire le immobilizzazioni
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
 
  []
 
 
-Overfull \hbox (33.4642pt too wide) in paragraph at lines 378--384
+Overfull \hbox (33.4642pt too wide) in paragraph at lines 367--373
 \T1/lmr/m/n/12 stia rischiando molto in campo economico: troviamo in primo luogo un peggioramento
  []
 
 
-Overfull \hbox (7.0013pt too wide) in paragraph at lines 378--384
+Overfull \hbox (7.0013pt too wide) in paragraph at lines 367--373
 \T1/lmr/m/n/12 un andmento simile con uno scostamento di 20mln\TS1/lmr/m/n/12 ^^bf \T1/lmr/m/n/12 rispetto all'anno precedente.
  []
 
 
-Overfull \hbox (10.02745pt too wide) in paragraph at lines 378--384
+Overfull \hbox (10.02745pt too wide) in paragraph at lines 367--373
 \T1/lmr/m/n/12 Questo peggioramento cos^^ed importante dei valori ^^e9 dovuto sopratutto all'aumento
  []
 
 
-Overfull \hbox (17.699pt too wide) in paragraph at lines 378--384
+Overfull \hbox (17.699pt too wide) in paragraph at lines 367--373
 \T1/lmr/m/n/12 del personale tesserato e alla voce "Ammortamenti e svalutazione diritti calciatori",
  []
 
-<img/CE_psg.png, id=298, 579.16376pt x 571.13374pt>
+[21]
+<img/CE_psg.png, id=300, 579.16376pt x 571.13374pt>
 File: img/CE_psg.png Graphic file (type png)
 <use img/CE_psg.png>
-Package pdftex.def Info: img/CE_psg.png  used on input line 394.
+Package pdftex.def Info: img/CE_psg.png  used on input line 384.
 (pdftex.def)             Requested size: 231.66139pt x 228.44945pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--398
+Underfull \hbox (badness 10000) in paragraph at lines 381--388
 
  []
 
-[22] [23 <./img/CE_psg.png>]
-<img/SP_psg.png, id=318, 579.16376pt x 395.4775pt>
+[22 <./img/CE_psg.png>]
+<img/SP_psg.png, id=312, 579.16376pt x 395.4775pt>
 File: img/SP_psg.png Graphic file (type png)
 <use img/SP_psg.png>
-Package pdftex.def Info: img/SP_psg.png  used on input line 418.
+Package pdftex.def Info: img/SP_psg.png  used on input line 408.
 (pdftex.def)             Requested size: 289.58116pt x 197.73827pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 433--434
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
-[24 <./img/SP_psg.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 446--447
+[23 <./img/SP_psg.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
 
  []
 
-<img/CE_dor.png, id=332, 431.6125pt x 262.9825pt>
+[24]
+<img/CE_dor.png, id=334, 431.6125pt x 262.9825pt>
 File: img/CE_dor.png Graphic file (type png)
 <use img/CE_dor.png>
-Package pdftex.def Info: img/CE_dor.png  used on input line 468.
+Package pdftex.def Info: img/CE_dor.png  used on input line 458.
 (pdftex.def)             Requested size: 172.64194pt x 105.19113pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--472
+Underfull \hbox (badness 10000) in paragraph at lines 455--462
 
  []
 
-[25]
-<img/SP_attivo_dor.png, id=341, 450.68375pt x 320.19624pt>
+<img/SP_attivo_dor.png, id=335, 450.68375pt x 320.19624pt>
 File: img/SP_attivo_dor.png Graphic file (type png)
 <use img/SP_attivo_dor.png>
-Package pdftex.def Info: img/SP_attivo_dor.png  used on input line 491.
+Package pdftex.def Info: img/SP_attivo_dor.png  used on input line 481.
 (pdftex.def)             Requested size: 190.12474pt x 135.07756pt.
-<img/SP_passivo_dor.png, id=342, 450.68375pt x 320.19624pt>
+<img/SP_passivo_dor.png, id=336, 450.68375pt x 320.19624pt>
 File: img/SP_passivo_dor.png Graphic file (type png)
 <use img/SP_passivo_dor.png>
-Package pdftex.def Info: img/SP_passivo_dor.png  used on input line 493.
+Package pdftex.def Info: img/SP_passivo_dor.png  used on input line 483.
 (pdftex.def)             Requested size: 190.12474pt x 135.07756pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
-
- []
-
-[26 <./img/CE_dor.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 521--522
+[25 <./img/CE_dor.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
  []
 
 
-Underfull \vbox (badness 1436) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 506--511
 
- [27 <./img/SP_attivo_dor.png> <./img/SP_passivo_dor.png>]
-<img/CE_barca.png, id=369, 663.47874pt x 918.43124pt>
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+
+Underfull \vbox (badness 2418) has occurred while \output is active []
+
+ [26 <./img/SP_attivo_dor.png> <./img/SP_passivo_dor.png>] [27]
+<img/CE_barca.png, id=370, 663.47874pt x 918.43124pt>
 File: img/CE_barca.png Graphic file (type png)
 <use img/CE_barca.png>
-Package pdftex.def Info: img/CE_barca.png  used on input line 545.
+Package pdftex.def Info: img/CE_barca.png  used on input line 535.
 (pdftex.def)             Requested size: 331.73856pt x 459.2145pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 542--549
+Underfull \hbox (badness 10000) in paragraph at lines 532--539
 
  []
 
-[28]
-<img/SP_attivo_barca.png, id=379, 409.53pt x 925.4575pt>
+
+Underfull \vbox (badness 4479) has occurred while \output is active []
+
+ [28 <./img/CE_barca.png>]
+<img/SP_attivo_barca.png, id=378, 409.53pt x 925.4575pt>
 File: img/SP_attivo_barca.png Graphic file (type png)
 <use img/SP_attivo_barca.png>
-Package pdftex.def Info: img/SP_attivo_barca.png  used on input line 569.
+Package pdftex.def Info: img/SP_attivo_barca.png  used on input line 559.
 (pdftex.def)             Requested size: 190.12474pt x 429.65547pt.
-<img/SP_passivo_barca.png, id=380, 409.53pt x 925.4575pt>
+<img/SP_passivo_barca.png, id=379, 409.53pt x 925.4575pt>
 File: img/SP_passivo_barca.png Graphic file (type png)
 <use img/SP_passivo_barca.png>
-Package pdftex.def Info: img/SP_passivo_barca.png  used on input line 571.
+Package pdftex.def Info: img/SP_passivo_barca.png  used on input line 561.
 (pdftex.def)             Requested size: 190.12474pt x 429.65547pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 576--577
 
- [29 <./img/CE_barca.png>] [30 <./img/SP_attivo_barca.png> <./img/SP_passivo_barca.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 586--587
+ []
+
+[29] [30 <./img/SP_attivo_barca.png> <./img/SP_passivo_barca.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 588--589
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--599
-
- []
-
-
-Overfull \hbox (0.78413pt too wide) in paragraph at lines 613--618
+Overfull \hbox (0.78413pt too wide) in paragraph at lines 603--607
 \T1/lmr/m/n/12 Premier League) i \T1/lmr/m/it/12 Citizens \T1/lmr/m/n/12 "ventavano" un bacheca contenente: 2 campionati inglesi,
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-<img/CE_city.png, id=409, 1026.83624pt x 411.5375pt>
+[31]
+<img/CE_city.png, id=410, 1026.83624pt x 411.5375pt>
 File: img/CE_city.png Graphic file (type png)
 <use img/CE_city.png>
-Package pdftex.def Info: img/CE_city.png  used on input line 622.
+Package pdftex.def Info: img/CE_city.png  used on input line 612.
 (pdftex.def)             Requested size: 410.72722pt x 164.61208pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--626
+Underfull \hbox (badness 10000) in paragraph at lines 609--616
 
  []
 
 [32 <./img/CE_city.png>]
-<img/SP_city.png, id=419, 1026.83624pt x 544.0325pt>
+<img/SP_city.png, id=420, 1026.83624pt x 544.0325pt>
 File: img/SP_city.png Graphic file (type png)
 <use img/SP_city.png>
-Package pdftex.def Info: img/SP_city.png  used on input line 645.
+Package pdftex.def Info: img/SP_city.png  used on input line 635.
 (pdftex.def)             Requested size: 410.72722pt x 217.60915pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 642--649
+Underfull \hbox (badness 10000) in paragraph at lines 632--639
 
  []
 
 
-LaTeX Warning: Command \textsterling invalid in math mode on input line 650.
+Underfull \hbox (badness 10000) in paragraph at lines 651--652
+
+ []
 
 [33 <./img/SP_city.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 661--662
-
- []
-
-
-LaTeX Warning: Command \textsterling invalid in math mode on input line 667.
-
-
-Overfull \hbox (3.82779pt too wide) in paragraph at lines 669--673
+Overfull \hbox (3.82779pt too wide) in paragraph at lines 659--663
 \T1/lmr/m/n/12 positivo, stando a significare un buon grado di autonomia rispetto ai finanziatori
  []
 
 
-Overfull \hbox (2.87753pt too wide) in paragraph at lines 669--673
+Overfull \hbox (2.87753pt too wide) in paragraph at lines 659--663
 \T1/lmr/m/n/12 immateriali e finanziarie) non siano per^^f3 completamente coperte dal Patrimonio
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
+Underfull \hbox (badness 10000) in paragraph at lines 663--664
 
  []
 
 
-Overfull \hbox (16.92041pt too wide) in paragraph at lines 681--686
+Overfull \hbox (16.92041pt too wide) in paragraph at lines 671--676
 \T1/lmr/m/n/12 considera il risultato netto, si "salva" grazie ai profitti sulla cessione di registrazione
  []
 
 [34] (prova.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: AC49164D7632B5E4FB5E9010C0F311A1;1804.
  ) 
 Here is how much of TeX's memory you used:
- 37197 strings out of 480517
- 864064 string characters out of 2893735
- 1300437 words of memory out of 3000000
- 54304 multiletter control sequences out of 15000+600000
- 589785 words of font info for 90 fonts, out of 8000000 for 9000
+ 37214 strings out of 480517
+ 864288 string characters out of 2893735
+ 1303902 words of memory out of 3000000
+ 54318 multiletter control sequences out of 15000+600000
+ 602445 words of font info for 93 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  138i,14n,134p,751b,736s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
@@ -1679,10 +1631,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on prova.pdf (35 pages, 3187784 bytes).
+{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
+Output written on prova.pdf (35 pages, 3186530 bytes).
 PDF statistics:
- 545 PDF objects out of 1000 (max. 8388607)
+ 548 PDF objects out of 1000 (max. 8388607)
  170 named destinations out of 1000 (max. 500000)
  211 words of extra memory for PDF output out of 10000 (max. 10000000)
 

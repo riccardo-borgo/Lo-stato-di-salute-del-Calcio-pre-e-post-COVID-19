@@ -3,12 +3,12 @@
 \babel@toc {italian}{}\relax 
 \contentsline {chapter}{Elenco delle figure}{2}{section*.1}%
 \contentsline {chapter}{\numberline {1}Introduzione generale}{3}{chapter.1}%
-\contentsline {part}{{\fontencoding {T1}\selectfont I}\hspace {1em}Parte Prima}{5}{part.1}%
-\contentsline {chapter}{\numberline {2}Situazione economica Europea pre-pandemia COVID19}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Analisi generale delle diverse realt\'a Europee}{6}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Analisi per Club}{17}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Juventus}{18}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Paris Saint Germain}{22}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Borussia Dortmund}{25}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Barcellona}{28}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Manchester City}{32}{subsection.2.2.5}%
+\contentsline {part}{{\fontencoding {T1}\selectfont I}\hspace {1em}Parte Prima}{6}{part.1}%
+\contentsline {chapter}{\numberline {2}Situazione economica Europea pre-pandemia COVID19}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Analisi generale delle diverse realt\'a Europee}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Analisi per Club}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Juventus}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Paris Saint Germain}{21}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Borussia Dortmund}{24}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Barcellona}{27}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Manchester City}{31}{subsection.2.2.5}%

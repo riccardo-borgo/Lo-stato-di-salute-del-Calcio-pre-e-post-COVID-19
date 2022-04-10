@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1649583887 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1649583896
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1649583873 54041 3d090a5a8623eeb45cd4667ceaa166f2 ""
+["pdflatex"] 1649599984 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1649599993
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1649599972 52058 81cc511ccae87ac029b9f3f3ea01e057 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -46,6 +46,9 @@
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr6.tfm" 1647553261 11836 e3b6ce3e601aec94f64a536e7f4224d5 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr7.tfm" 1647553261 11852 5a9022f105fd1ee2797df861e79ae9a0 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmr8.tfm" 1647553261 11864 309fd7f43e4a0ba39f6f7644d76e8edf ""
+  "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm" 1647553261 16968 09a34e0af90920bbcece784f13606525 ""
+  "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri7.tfm" 1647553261 16984 f7462c768466838a2a9e916b6dee71c6 ""
+  "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri8.tfm" 1647553261 16976 7228e7c7bc486e2318fc496e0de33875 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmbx12.tfm" 1647553261 1600 fec060bf714b3c52e53c0e0df6ae170d ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmcsc10.tfm" 1647553261 1580 26690cc8c7238817888e51c8fb1913aa ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmr12.tfm" 1647553261 1596 1d4548788e389ded56d0b01b28377882 ""
@@ -289,11 +292,11 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1649583896 11757 e1020b6ded05a898b2e06cf599d4bf72 "pdflatex"
-  "prova.lof" 1649583896 2192 7d50e7f889fe29a979efc13a8e0ab658 "pdflatex"
-  "prova.out" 1649583896 1804 ac49164d7632b5e4fb5e9010c0f311a1 "pdflatex"
-  "prova.tex" 1649583873 54041 3d090a5a8623eeb45cd4667ceaa166f2 ""
-  "prova.toc" 1649583896 1033 0f4a8a55f603c5851309394ba55d83d8 "pdflatex"
+  "prova.aux" 1649599992 11702 e695ccfa26cefef05fe29d0ff76b06cf "pdflatex"
+  "prova.lof" 1649599992 2192 d61da283ffe8f4530a7a6ba3baebc1eb "pdflatex"
+  "prova.out" 1649599992 1804 ac49164d7632b5e4fb5e9010c0f311a1 "pdflatex"
+  "prova.tex" 1649599972 52058 81cc511ccae87ac029b9f3f3ea01e057 ""
+  "prova.toc" 1649599992 1033 ef7a6a136bf319294588606f90254d4d "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
