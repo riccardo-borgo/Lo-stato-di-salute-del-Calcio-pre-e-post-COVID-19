@@ -1053,6 +1053,17 @@ INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/late
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eurosym/eurosym.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eurosym/eurosym.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/eurosym/eurosym.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/lipsum/lipsum.sty
@@ -1436,6 +1447,23 @@ INPUT ./img/SP_city.png
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri12.tfm
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri8.tfm
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri7.tfm
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri10.tfm
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri7.tfm
+INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/rm-lmri7.tfm
+INPUT ./img/ricavi_2010.png
+INPUT ./img/ricavi_2010.png
+INPUT img/ricavi_2010.png
+INPUT ./img/ricavi_2010.png
+INPUT ./img/ricavi_2010.png
+INPUT ./img/ricavi_2010.png
+INPUT ./img/ricavi_2010.png
+INPUT ./img/ricavi_2019.png
+INPUT ./img/ricavi_2019.png
+INPUT img/ricavi_2019.png
+INPUT ./img/ricavi_2019.png
+INPUT ./img/ricavi_2019.png
+INPUT ./img/ricavi_2019.png
+INPUT ./img/ricavi_2019.png
 INPUT prova.aux
 INPUT ./prova.out
 INPUT ./prova.out
