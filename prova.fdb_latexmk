@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1652278459 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1652278470
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1652278445 62565 135a11336fbfab3a364b21e82728f6aa ""
+["pdflatex"] 1652369972 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1652369982
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1652369961 64850 7750093fea6b3618da1472f9d97c109d ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -20,6 +20,7 @@
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr6.tfm" 1647553261 12048 c1068d0f4772be9b0ec447692e1d6d82 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr7.tfm" 1647553261 12064 09aa3eeac96bf141d673bb1b0385ce55 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmr8.tfm" 1647553261 12064 a35db870f0b76c338d749c56dc030ef5 ""
+  "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri10.tfm" 1647553261 17148 9556e1b5f936b77a796f68d2d559ba99 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmri12.tfm" 1647553261 17144 271aaf9ebb339934b04110dc5211fba4 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmro10.tfm" 1647553261 12196 3ef208c5996a6e35328a273ab73fa1e1 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/lmex10.tfm" 1647553261 992 ce925c9346c7613270a79afbee98c070 ""
@@ -63,6 +64,7 @@
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb" 1647553261 119752 1bd8d06e4079df624bf59ce3ad7c9aa6 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb" 1647553261 121145 68312a933e2c689ed40ec0aba373e279 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb" 1647553261 122174 a7a08406857c9530a0320a2517f60370 ""
+  "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb" 1647553261 112593 fda2373ba4420af33949610de4c28fe8 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb" 1647553261 109265 32320cb6133d4d76bf83e27b5eb4009b ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb" 1647553261 131205 e6b9f0f008cce138627a5f401db34a3b ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb" 1647553261 27863 09ce3735688ffde955e72da27c95b61a ""
@@ -299,11 +301,11 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1652278469 13003 097311702f700395095120c5ecaab54e "pdflatex"
-  "prova.lof" 1652278469 2330 5d003939bcedb1b50c8888afb1c171f7 "pdflatex"
-  "prova.out" 1652278469 2424 14d384cf94dacdad8398f10fa71c1ddd "pdflatex"
-  "prova.tex" 1652278445 62565 135a11336fbfab3a364b21e82728f6aa ""
-  "prova.toc" 1652278469 1306 7393c1a83507b3967c1fc7f6e2ce98ec "pdflatex"
+  "prova.aux" 1652369981 13003 78ad9dc79c4578a1f2bd8b4be15312bc "pdflatex"
+  "prova.lof" 1652369981 2330 5d003939bcedb1b50c8888afb1c171f7 "pdflatex"
+  "prova.out" 1652369981 2424 14d384cf94dacdad8398f10fa71c1ddd "pdflatex"
+  "prova.tex" 1652369961 64850 7750093fea6b3618da1472f9d97c109d ""
+  "prova.toc" 1652369981 1306 7393c1a83507b3967c1fc7f6e2ce98ec "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
