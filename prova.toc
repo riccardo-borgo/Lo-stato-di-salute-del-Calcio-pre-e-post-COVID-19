@@ -14,4 +14,4 @@
 \contentsline {subsection}{\numberline {2.2.5}Manchester City}{31}{subsection.2.2.5}%
 \contentsline {chapter}{\numberline {3}Fair Play Finanziario}{35}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Dalla nascita alle ultime riforme}{35}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Le riforme del 2014 e del 2015}{40}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.1}Le riforme del 2014, del 2015 e del 2018}{40}{subsection.3.1.1}%
