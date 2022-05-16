@@ -1306,6 +1306,10 @@ INPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx12.tfm
 OUTPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmcsc10.tfm
+INPUT ./prova.lot
+INPUT prova.lot
+INPUT prova.lot
+OUTPUT prova.lot
 INPUT ./prova.lof
 INPUT prova.lof
 INPUT prova.lof

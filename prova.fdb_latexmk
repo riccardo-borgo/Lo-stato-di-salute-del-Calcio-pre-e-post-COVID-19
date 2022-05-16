@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1652532880 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1652532889
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1652532869 67037 1e15617d0398f68a606681109ae5391b ""
+["pdflatex"] 1652719214 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1652719222
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1652719201 72206 97892bdb2fd5b02a939c330d81538944 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -301,15 +301,17 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1652532888 13013 4bc1a3c8abf8d997798d7920ccc1dd96 "pdflatex"
-  "prova.lof" 1652532888 2330 5d003939bcedb1b50c8888afb1c171f7 "pdflatex"
-  "prova.out" 1652532888 2480 52936cad58382079c267e0604d0cdc69 "pdflatex"
-  "prova.tex" 1652532869 67037 1e15617d0398f68a606681109ae5391b ""
-  "prova.toc" 1652532888 1316 50405161739bc4fa9e0e02298bee3e65 "pdflatex"
+  "prova.aux" 1652719221 13628 bd216efe4d645bb524ebdb417ec38e5f "pdflatex"
+  "prova.lof" 1652719221 2352 6a0348dc71ee9f530df548d6e760c63b "pdflatex"
+  "prova.lot" 1652719221 289 288bdd4f077363e6d485d22b0fc0a5bf "pdflatex"
+  "prova.out" 1652719221 3481 2a81ed0dbe4e364199f5bfe6acc5de66 "pdflatex"
+  "prova.tex" 1652719201 72206 97892bdb2fd5b02a939c330d81538944 ""
+  "prova.toc" 1652719221 1685 3261f466ee9d0389d14e3e8f58fc3706 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
   "prova.log"
+  "prova.lot"
   "prova.out"
   "prova.pdf"
   "prova.toc"
