@@ -1304,8 +1304,8 @@ INPUT ./prova.toc
 INPUT prova.toc
 INPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ec-lmbx12.tfm
-OUTPUT prova.toc
 INPUT /Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/lm/ts1-lmcsc10.tfm
+OUTPUT prova.toc
 INPUT ./prova.lot
 INPUT prova.lot
 INPUT prova.lot
