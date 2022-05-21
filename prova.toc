@@ -19,6 +19,6 @@
 \contentsline {subsection}{\numberline {3.1.1}Le riforme del 2014, del 2015 e del 2018}{43}{subsection.3.1.1}%
 \contentsline {section}{\numberline {3.2}Favoritismi verso alcuni club}{47}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Punti critici del Fair Play Finanziario}{51}{section.3.3}%
-\contentsline {chapter}{\numberline {4}La SuperLega: una nuova idea per salvare il mondo del calcio}{55}{chapter.4}%
-\contentsline {part}{{\fontencoding {T1}\selectfont III}\hspace {1em}Parte Terza}{56}{part.3}%
-\contentsline {chapter}{\numberline {5}Conclusione Finale}{57}{chapter.5}%
+\contentsline {chapter}{\numberline {4}La SuperLega: una nuova idea per salvare il mondo del calcio}{56}{chapter.4}%
+\contentsline {part}{{\fontencoding {T1}\selectfont III}\hspace {1em}Parte Terza}{57}{part.3}%
+\contentsline {chapter}{\numberline {5}Conclusione Finale}{58}{chapter.5}%

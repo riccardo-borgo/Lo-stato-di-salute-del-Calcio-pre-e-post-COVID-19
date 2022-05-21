@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1653041744 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1653041752
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1653041732 85958 21a6b5ef12ee3523ec5b1165220a9e9a ""
+["pdflatex"] 1653144107 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1653144115
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1653144103 85204 940d4ab1c52fbb3c77042f987aa05b3c ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -292,6 +292,8 @@
   "img/SP_psg.png" 1649521677 114889 ca3d4b5de167b9247e80536c3abc987e ""
   "img/Unito-logo.png" 1647467682 280828 469b97ffb02d979530295d896655c9d1 ""
   "img/diff_wage_serieA.png" 1649102584 511623 7cbff741abb13acf234dadec70663fd5 ""
+  "img/diritti_tv_SA.png" 1653143866 270123 027fed41d33b113bb73b56627587795a ""
+  "img/diritti_tv_pl.png" 1653143785 131341 17b25b83fe536f5c223b1d8b5b617713 ""
   "img/logo_saa.jpeg" 1648310836 14407 029cd1cd1f0d49818e61b3932f642c1f ""
   "img/ricavi_2010.png" 1652172885 105851 6865838db7d93a1ababb2173c5578815 ""
   "img/ricavi_2019.png" 1652172901 105878 684014f63eb1d1f85d0f8bce0f31c1f9 ""
@@ -301,12 +303,12 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1653041752 14100 aedcdb3dd4691305caae31013dfe457d "pdflatex"
-  "prova.lof" 1653041752 2372 5bdf932eae0370b4afa8fa430e276807 "pdflatex"
-  "prova.lot" 1653041752 309 a655021d2a9c958456ced2265b6a764e "pdflatex"
-  "prova.out" 1653041752 3878 c559477c6a06354b6b647d8e41ada73c "pdflatex"
-  "prova.tex" 1653041732 85958 21a6b5ef12ee3523ec5b1165220a9e9a ""
-  "prova.toc" 1653041752 1952 01df476f5064f52e3c60dd9cacba448f "pdflatex"
+  "prova.aux" 1653144114 14674 46da587b1a22eec911531c3c7769f633 "pdflatex"
+  "prova.lof" 1653144114 2492 b8d76bd0724f638eb717e815951078b4 "pdflatex"
+  "prova.lot" 1653144114 309 a655021d2a9c958456ced2265b6a764e "pdflatex"
+  "prova.out" 1653144114 3878 c559477c6a06354b6b647d8e41ada73c "pdflatex"
+  "prova.tex" 1653144103 85204 940d4ab1c52fbb3c77042f987aa05b3c ""
+  "prova.toc" 1653144114 1952 666cf14910dcd32d51b6fceb9c3b2682 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
