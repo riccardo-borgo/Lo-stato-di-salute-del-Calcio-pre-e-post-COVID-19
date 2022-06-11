@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  10 JUN 2022 16:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  11 JUN 2022 18:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1784,22 +1784,65 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7.66501> on input line 1098.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5.47504> on input line 1098.
- [61] [62] [63]
+ [61] [62]
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
+[][]\T1/lmr/m/n/10.00012 AGI: https://www.agi.it/sport/calcio/news/2021-04-20/super-league-boris-johnson-alza-
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 1125--1125
+[][]\T1/lmr/m/n/10.00012 Corriere: https://www.corriere.it/sport/21_aprile_18/macron-contro-superlega-progetto-
+ []
+
+[63]
+Overfull \hbox (3.14622pt too wide) in paragraph at lines 1127--1128
+\T1/lmr/m/n/10.95007 calcio e sostiene con determinazione le posizioni delle autorit^^e0 calcistiche italiane
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1134
+[][]\T1/lmr/m/n/10.00012 Calciomercato.com: https://www.calciomercato.com/news/real-madrid-la-cifra-offerta-a-
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 1138--1138
+[][]\T1/lmr/m/n/10.00012 Gazzetta dello Sport: https://www.gazzetta.it/Calciomercato/21-05-2022/mbappe-psg-
+ []
+
+[64] [65]
 Capitolo 5.
-[64
+[66
 
 ] (prova.aux)
 Package rerunfilecheck Info: File `prova.out' has not changed.
 (rerunfilecheck)             Checksum: 168F1EB11D0CAE948C6E4C327530E89C;4328.
  ) 
 Here is how much of TeX's memory you used:
- 37630 strings out of 480517
- 871220 string characters out of 2893735
+ 37638 strings out of 480517
+ 871306 string characters out of 2893735
  1307619 words of memory out of 3000000
  54613 multiletter control sequences out of 15000+600000
  657621 words of font info for 114 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  138i,14n,134p,751b,736s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.58} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.57} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.56} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.55} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.54} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{Hfootnote.53} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.52} has been referenced but does not exist, replaced by a fixed one
 
@@ -1957,9 +2000,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on prova.pdf (65 pages, 3634267 bytes).
+Output written on prova.pdf (67 pages, 3641264 bytes).
 PDF statistics:
- 862 PDF objects out of 1000 (max. 8388607)
- 271 named destinations out of 1000 (max. 500000)
+ 884 PDF objects out of 1000 (max. 8388607)
+ 279 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 

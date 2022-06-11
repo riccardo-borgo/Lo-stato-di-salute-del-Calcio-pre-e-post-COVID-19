@@ -22,5 +22,5 @@
 \contentsline {chapter}{\numberline {4}La SuperLega: una nuova idea per salvare il mondo del calcio}{56}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Definizione e struttura}{58}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Reazione di Media e persone}{61}{section.4.2}%
-\contentsline {section}{\numberline {4.3}La SuperLega \'e necessaria?}{63}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Conclusione Finale}{64}{chapter.5}%
+\contentsline {section}{\numberline {4.3}La SuperLega \'e necessaria?}{65}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Conclusione Finale}{66}{chapter.5}%
