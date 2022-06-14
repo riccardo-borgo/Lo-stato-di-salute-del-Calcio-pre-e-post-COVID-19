@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  13 JUN 2022 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  14 JUN 2022 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1737,7 +1737,7 @@ File: img/diritti_tv_SA.png Graphic file (type png)
 Package pdftex.def Info: img/diritti_tv_SA.png  used on input line 964.
 (pdftex.def)             Requested size: 147.87839pt x 167.71283pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 958--991
+Underfull \hbox (badness 10000) in paragraph at lines 958--990
 
  []
 
@@ -1749,8 +1749,8 @@ Overfull \hbox (18.6136pt too wide) in paragraph at lines 998--998
  []
 
 
-Overfull \hbox (1.28212pt too wide) in paragraph at lines 991--1011
-\T1/lmr/m/n/12 sistematico ogni 10/15 anni, alcune tra le figure pi^^fa influenti nel panorama calcistico,
+Overfull \hbox (9.37595pt too wide) in paragraph at lines 992--1011
+\T1/lmr/m/n/12 diritti televisivi, perch^^e9, secondo l'opinione del gruppo che aveva avanzato la proposta,
  []
 
 
@@ -1762,21 +1762,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57]
-Overfull \hbox (5.42195pt too wide) in paragraph at lines 1022--1024
-\T1/lmr/m/n/12 come alternativa alla Champions League, con gare infrasettimanali, ad eccezione
+Overfull \hbox (18.02092pt too wide) in paragraph at lines 1024--1041
+\T1/lmr/m/n/12 L'idea, per^^f3, per come ^^e9 stata avanzata in prima istanza era effettivamente considerabile
  []
 
 
-Overfull \hbox (20.37086pt too wide) in paragraph at lines 1025--1041
-\T1/lmr/m/n/12 L'idea, per^^f3, cos^^ed come ^^e9 stata avanzata in prima istanza era effettivamente considerabile
+Overfull \hbox (20.4463pt too wide) in paragraph at lines 1024--1041
+\T1/lmr/m/n/12 fino ai 250 milioni di euro all'anno per il vincitore della competizione[][][][][]. Paradossalmente,
  []
 
-[58]
+[58] [59]
 Underfull \hbox (badness 3557) in paragraph at lines 1055--1055
 [][]\T1/lmr/m/n/10.00012 Calcio e Finanza: https://www.calcioefinanza.it/2022/03/27/classifica-perdite-bilancio-
  []
 
-[59] [60]
+
+Overfull \hbox (7.745pt too wide) in paragraph at lines 1045--1055
+\T1/lmr/m/n/12 ^^e9 indubbiamente legato all'enorme deficit di bilancio che non riescono (o non vogliono)
+ []
+
+[60]
 LaTeX Font Info:    Calculating math sizes for size <10.95007> on input line 1098.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95007> on input line 1098.
@@ -1784,14 +1789,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7.66501> on input line 1098.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5.47504> on input line 1098.
+
+Underfull \vbox (badness 1308) has occurred while \output is active []
+
  [61] [62]
 Underfull \hbox (badness 10000) in paragraph at lines 1124--1124
 [][]\T1/lmr/m/n/10.00012 AGI: https://www.agi.it/sport/calcio/news/2021-04-20/super-league-boris-johnson-alza-
  []
 
 
-Underfull \hbox (badness 4403) in paragraph at lines 1125--1125
-[][]\T1/lmr/m/n/10.00012 Corriere: https://www.corriere.it/sport/21_aprile_18/macron-contro-superlega-progetto-
+Underfull \hbox (badness 2828) in paragraph at lines 1125--1125
+[][]\T1/lmr/m/n/10.00012 Corriere: https://www.corriere.it/sport/21_aprile_18/macron-contro-Superlega-progetto-
  []
 
 [63]
@@ -1825,6 +1833,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 1205--1205
  []
 
 
+Overfull \hbox (24.06374pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 maggiormente inclini a schierare giocatori pi^^fa giovani oppure calciatori non propriamente
+ []
+
+
+Overfull \hbox (11.82222pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 partita come Juventus-Sampdoria, giocata ad armi pari darebbe sicuramente maggiore
+ []
+
+
 Overfull \hbox (27.32706pt too wide) in paragraph at lines 1147--1209
 \T1/lmr/m/n/12 vorebbe utilizzare questa linea di ragionamento anche per quanto riguarda le competizioni
  []
@@ -1849,16 +1867,19 @@ Capitolo 5.
 
 ] (prova.aux)
 Package rerunfilecheck Info: File `prova.out' has not changed.
-(rerunfilecheck)             Checksum: 168F1EB11D0CAE948C6E4C327530E89C;4328.
+(rerunfilecheck)             Checksum: 65AF8156302DCC3C3536AED49E409D75;4328.
  ) 
 Here is how much of TeX's memory you used:
- 37653 strings out of 480517
- 871466 string characters out of 2893735
+ 37654 strings out of 480517
+ 871478 string characters out of 2893735
  1307619 words of memory out of 3000000
  54613 multiletter control sequences out of 15000+600000
  657621 words of font info for 114 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  138i,14n,134p,751b,736s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.70} has been referenced but does not exist, replaced by a fixed one
+
 
 pdfTeX warning (dest): name{Hfootnote.69} has been referenced but does not exist, replaced by a fixed one
 
@@ -2067,9 +2088,9 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on prova.pdf (71 pages, 3657102 bytes).
+Output written on prova.pdf (71 pages, 3657580 bytes).
 PDF statistics:
- 925 PDF objects out of 1000 (max. 8388607)
- 294 named destinations out of 1000 (max. 500000)
+ 928 PDF objects out of 1000 (max. 8388607)
+ 295 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 
