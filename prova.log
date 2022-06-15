@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  14 JUN 2022 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  15 JUN 2022 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1833,13 +1833,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1205--1205
  []
 
 
-Overfull \hbox (24.06374pt too wide) in paragraph at lines 1147--1209
-\T1/lmr/m/n/12 maggiormente inclini a schierare giocatori pi^^fa giovani oppure calciatori non propriamente
+Overfull \hbox (15.83887pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 possibile capire come l'idea della Superlega non sia del tutto sbagliata e discriminatoria.
  []
 
 
-Overfull \hbox (11.82222pt too wide) in paragraph at lines 1147--1209
-\T1/lmr/m/n/12 partita come Juventus-Sampdoria, giocata ad armi pari darebbe sicuramente maggiore
+Overfull \hbox (35.21535pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 Utilizzando un esempio pratico, se nel campionato di Serie A le squadre che originariamente
+ []
+
+
+Overfull \hbox (16.59915pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 quindi nessun fattore esterno al campo come possono essere tifosi o sponsor; ovviamente
+ []
+
+
+Overfull \hbox (15.31604pt too wide) in paragraph at lines 1147--1209
+\T1/lmr/m/n/12 sempre in modo relativo dato che questi due fattori compongono la maggior percentuale
  []
 
 
@@ -2088,7 +2098,7 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb>
-Output written on prova.pdf (71 pages, 3657580 bytes).
+Output written on prova.pdf (71 pages, 3657445 bytes).
 PDF statistics:
  928 PDF objects out of 1000 (max. 8388607)
  295 named destinations out of 1000 (max. 500000)
