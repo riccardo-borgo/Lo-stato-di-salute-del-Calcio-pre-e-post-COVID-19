@@ -24,4 +24,4 @@
 \contentsline {section}{\numberline {4.2}Reazione di Media e persone}{61}{section.4.2}%
 \contentsline {section}{\numberline {4.3}La Superlega \'e necessaria?}{65}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Conclusione Finale}{70}{chapter.5}%
-\contentsline {chapter}{Bibliografia}{71}{chapter.5}%
+\contentsline {chapter}{Bibliografia}{72}{chapter.5}%
