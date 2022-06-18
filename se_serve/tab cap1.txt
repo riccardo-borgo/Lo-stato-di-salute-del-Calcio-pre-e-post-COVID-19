@@ -1,0 +1,39 @@
+\begin{sidewaystable}
+    \caption{Tabella riassuntiva con Indici di Bilancio delle squadre analizzate}
+    \label{tabella_riassunto_cap1}
+    \centering
+    \begin{tabular}{ccccccccccccc}
+        \toprule
+        \multirow{2}*{\textbf{Squadra}} & \multicolumn{3}{c}{\textbf{Analisi Ricavi}} & \multicolumn{2}{c}{\textbf{Analisi Liquidit\'a}} & \multicolumn{2}{c}{\textbf{Analisi Solidit\'a}} & \multicolumn{2}{c}{\textbf{Analisi Redditivt\'a}}\\
+        \cmidrule{2-10}
+        & 1 & 2 & 3 & 1 & 2 & 1 & 2 & 1 & 2 \\
+        \midrule
+        Juventus & $1$ & 2 & 3 \\
+        Paris Saint Germain  & $2$ & $1$ & \\
+        Borussia Dortmund  & $2$ & $8$ & $1$ \\
+        Barcellona & 3 & 3 & 3 \\
+        Manchester City & 3 & 3 & 3 \\
+        \bottomrule    
+    \end{tabular}
+\end{sidewaystable}
+
+
+
+
+
+
+
+    \begin{tabular}{ccccccc}
+        \toprule
+        \textbf{Squadra} & \textbf{Analisi Ricavi} & \textbf{Analisi Liquidit\'a} & \textbf{Analisi Solidit\'a} & \textbf{Analisi Redditivt\'a} \\
+        \cmidrule{2-5}
+        & 1 \hspace{0.7cm} 2 \hspace{0.7cm} 3 & 1 \hspace{0.7cm} 2 & 1 \hspace{0.7cm} 2 & 1 \hspace{0.7cm} 2 \\
+        \midrule
+        Juventus & \small $12,02\%$ $35,18\%$ $26,02\%$ & \small $-233.111.829$ $40,31\%$ & \small $3,31\%$ $581.997.746$ & \small $-1,6\%$ $-127,69\%$ \\[2ex]
+        Paris Saint Germain  & \small $7,68\%$ $23,77\%$ $29,60\%$ & \small $-171.786.000$ $30,21\%$ & \small $47,46\%$ $-28.193.000$ & \small $-4,6\%$ $5,9\%$ \\[2ex]
+        Borussia Dortmund  &\small $8,95\%$ $33,55\%$ $26,06\%$ & \small $-4.280.000$ $96,65\%$ & \small $70,97\%$ $6.834.000$ & \small $4,6\%$ $4,8\%$ \\[2ex]
+        Barcellona & \small $20,80\%$ $35,62\%$ $43,42\%$ & \small $-287.958.00$ $58,09\%$ & \small $9,70\%$ $-615.372.000$ & \small $1,29\%$ $6,62\%$ \\[2ex]
+        Manchester City & \small $10,27\%$ $47,30\%$ $42,75\%$ & \small $-713.364.000$ $15,40\%$ & \small $64,00\%$ $-96.372.000$ & \small $-1,81\%$ $1,33\%$ \\[2ex]
+        \bottomrule    
+    \end{tabular}
+\end{table}
