@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  22 JUN 2022 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.25)  6 JUL 2022 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1309,11 +1309,6 @@ Underfull \hbox (badness 3557) in paragraph at lines 81--81
 [][]\T1/lmr/m/n/10.00012 Wikpedia: https://it.wikipedia.org/wiki/Union_of_European_Football_Associations, I
  []
 
-
-Overfull \hbox (14.09846pt too wide) in paragraph at lines 65--98
-\T1/lmr/m/n/12 del calcio europeo prima e dopo l'avvento della pandemia COVID19 che ha sicuramente
- []
-
 [6
 
 ] [7] [8] [9
@@ -1356,13 +1351,8 @@ Underfull \hbox (badness 4048) in paragraph at lines 204--204
  []
 
 
-Overfull \hbox (12.36238pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 Passando invece all'argomento \T1/lmr/bx/n/12 stipendi \T1/lmr/m/n/12 la FIGC non fornisce un resoconto dettagliato
- []
-
-
-Overfull \hbox (12.39508pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 Per quanto riguarda invece la \T1/lmr/bx/n/12 Francia\T1/lmr/m/n/12 , l'organizzazione che si occupa del monitoraggio
+Underfull \hbox (badness 1097) in paragraph at lines 102--212
+\T1/lmr/m/n/12 Per quanto riguarda invece la \T1/lmr/bx/n/12 Francia\T1/lmr/m/n/12 , l'organizzazione che si occupa del
  []
 
 
@@ -1371,33 +1361,13 @@ Overfull \hbox (0.6931pt too wide) in paragraph at lines 102--212
  []
 
 
-Overfull \hbox (13.5356pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 Il terzo Paese e di conseguenza ambiente calcistico che verr^^e1 analizzato ^^e9 la \T1/lmr/bx/n/12 Germania\T1/lmr/m/n/12 ,
- []
-
-
-Overfull \hbox (11.38293pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 Questo campionato, come pochi in Europa, possiede davvero poche criticit^^e1. Iniziando
- []
-
-
 Overfull \hbox (0.4353pt too wide) in paragraph at lines 102--212
 \T1/lmr/m/n/12 tuttavia, sono diminuiti anche se di poco, i ricavi da pubblicit^^e1 e incontri, imputabile
  []
 
 
-Overfull \hbox (25.98352pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 Passando alla seconda parte dell'analisi, \T1/lmr/bx/n/12 gli stipendi \T1/lmr/m/n/12 non seguono lo stesso ragionamento
- []
-
-
-Overfull \hbox (6.43678pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 tedesche sono sempre riuscite a ritagliarsi il proprio spazio nelle competizioni europee,
- []
-
-
-Overfull \hbox (4.08925pt too wide) in paragraph at lines 102--212
-\T1/lmr/m/n/12 tuttavia anticipare gi^^e1 da ora, come in nessuno stato, non si possa trovare similitudini
+Overfull \hbox (0.88957pt too wide) in paragraph at lines 102--212
+\T1/lmr/m/n/12 complessivo degli stipendi dei calciatori e staff sia cresciuto in entrambi i campionati,
  []
 
 [10
@@ -1406,7 +1376,7 @@ Overfull \hbox (4.08925pt too wide) in paragraph at lines 102--212
 Underfull \vbox (badness 1077) has occurred while \output is active []
 
  [14 <./img/stipendi_ligue1.png>] [15 <./img/wage_germanyA.png> <./img/wage_germanyB.png>] [16]
-<img/wage_spain.png, id=313, 605.26125pt x 352.31625pt>
+<img/wage_spain.png, id=312, 605.26125pt x 352.31625pt>
 File: img/wage_spain.png Graphic file (type png)
 <use img/wage_spain.png>
 Package pdftex.def Info: img/wage_spain.png  used on input line 231.
@@ -1416,21 +1386,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--244
 [][]\T1/lmr/m/n/10.00012 https://www2.deloitte.com/global/en/pages/about-deloitte/articles/annual-review-of-
  []
 
-<img/ricavi_premier.png, id=317, 645.41125pt x 326.21875pt>
+<img/ricavi_premier.png, id=316, 645.41125pt x 326.21875pt>
 File: img/ricavi_premier.png Graphic file (type png)
 <use img/ricavi_premier.png>
 Package pdftex.def Info: img/ricavi_premier.png  used on input line 257.
 (pdftex.def)             Requested size: 322.70483pt x 163.10896pt.
-
-Overfull \hbox (15.5953pt too wide) in paragraph at lines 226--271
-\T1/lmr/m/n/12 elaborata un'analisi dettagliata degli stipendi. Nel documento viene indicato solamente
- []
-
-
-Overfull \hbox (3.98979pt too wide) in paragraph at lines 226--271
-\T1/lmr/m/n/12 Come ultimo elemento compreso in questa prima analisi suddivisa per Paesi troviamo
- []
-
 
 Overfull \hbox (1.50482pt too wide) in paragraph at lines 226--271
 \T1/lmr/m/n/12 Iniziando a presentare i dati riguardanti l'analisi, la societ^^e1 Deloitte tramite l'\T1/lmr/m/it/12 Annual
@@ -1496,33 +1456,13 @@ Overfull \hbox (1.1105pt too wide) in paragraph at lines 358--363
  []
 
 
-Overfull \hbox (25.56296pt too wide) in paragraph at lines 358--363
-\T1/lmr/m/n/12 Struttura visualizza invece la capacit^^e1 dei mezzi propri di coprire le immobilizzazioni
+Underfull \hbox (badness 1609) in paragraph at lines 358--363
+\T1/lmr/m/n/12 Struttura visualizza invece la capacit^^e1 dei mezzi propri di coprire le
  []
 
 [23]
 Underfull \hbox (badness 10000) in paragraph at lines 364--365
 
- []
-
-
-Overfull \hbox (33.4642pt too wide) in paragraph at lines 372--378
-\T1/lmr/m/n/12 stia rischiando molto in campo economico: troviamo in primo luogo un peggioramento
- []
-
-
-Overfull \hbox (7.0013pt too wide) in paragraph at lines 372--378
-\T1/lmr/m/n/12 un andmento simile con uno scostamento di 20mln\TS1/lmr/m/n/12 ^^bf \T1/lmr/m/n/12 rispetto all'anno precedente.
- []
-
-
-Overfull \hbox (10.02745pt too wide) in paragraph at lines 372--378
-\T1/lmr/m/n/12 Questo peggioramento cos^^ed importante dei valori ^^e9 dovuto sopratutto all'aumento
- []
-
-
-Overfull \hbox (17.699pt too wide) in paragraph at lines 372--378
-\T1/lmr/m/n/12 del personale tesserato e alla voce "Ammortamenti e svalutazione diritti calciatori",
  []
 
 [24]
@@ -1674,8 +1614,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 668--669
  []
 
 
-Overfull \hbox (16.92041pt too wide) in paragraph at lines 676--681
-\T1/lmr/m/n/12 considera il risultato netto, si "salva" grazie ai profitti sulla cessione di registrazione
+Overfull \hbox (4.47614pt too wide) in paragraph at lines 676--681
+\T1/lmr/m/n/12 registrazione dei calciatori che elimina la perdita generata con la sola sottrazioen
  []
 
 [37]
@@ -1725,45 +1665,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 754--754
 [][]\T1/lmr/m/n/10.00012 https://www.calcioefinanza.it/2019/12/30/classifica-ricavi-squadre-decennio-juve-inter-
  []
 
-
-Overfull \hbox (5.14526pt too wide) in paragraph at lines 740--775
-\T1/lmr/m/n/12 troviamo i principali Club di Germania, Inghilterra e Spagna con incrementi superiori
- []
-
-
-Overfull \hbox (10.68095pt too wide) in paragraph at lines 740--775
-\T1/lmr/m/n/12 rispettare il pareggio di bilancio e altre regolamentazioni di tipo economico-finanziarie.
- []
-
-[40] [41 <./img/ricavi_2010.png> <./img/ricavi_2019.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-Overfull \hbox (19.72661pt too wide) in paragraph at lines 778--782
-\T1/lmr/m/n/12 pareggio (\T1/lmr/m/it/12 Break-Even Point\T1/lmr/m/n/12 ) viene identificato tramite la quantit^^e1 da vendere necessaria
- []
-
-[43]
+[40] [41 <./img/ricavi_2010.png> <./img/ricavi_2019.png>] [42] [43]
 Underfull \hbox (badness 10000) in paragraph at lines 800--800
 []|\T1/lmr/m/n/12 Costi dei materiali (voce che
  []
 
 
-Overfull \hbox (21.1905pt too wide) in paragraph at lines 804--812
-\T1/lmr/m/n/12 settore giovanile per poi venderli successivamente producendo plusvalenze notevolissime. 
+Underfull \hbox (badness 3199) in paragraph at lines 804--812
+\T1/lmr/m/n/12 settore giovanile per poi venderli successivamente producendo plusvalenze
  []
 
-[44]
-Overfull \hbox (5.11807pt too wide) in paragraph at lines 833--844
-\T1/lmr/m/n/12 Insieme al \T1/lmr/m/it/12 Settlement Agreement \T1/lmr/m/n/12 la nuova riforma prevedeva la possibilit^^e1 di stipulare
- []
-
-[45] [46]
-Overfull \hbox (22.57404pt too wide) in paragraph at lines 867--868
-[]\T1/lmr/m/n/12 Gli incassi potranno essere contabilizzati quando effettivamente realizzati (principio
- []
-
-[47]
+[44] [45] [46] [47]
 Underfull \hbox (badness 10000) in paragraph at lines 876--876
 [][]\T1/lmr/m/n/10.00012 Calcio e Finanza: https://www.calcioefinanza.it/2020/03/02/fair-play-finanziario-e-
  []
@@ -1773,19 +1685,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 880--880
 [][]\T1/lmr/m/n/10.00012 Sport Mediaset: https://www.sportmediaset.mediaset.it/calcio/calcio/uefa-e-fair-play-
  []
 
-
-Overfull \hbox (4.08725pt too wide) in paragraph at lines 875--889
-\T1/lmr/m/n/12 analizzato in precedenza ha vissuto una crescita esponenziale sia in termini economici
- []
-
 [48]
-Overfull \hbox (21.3527pt too wide) in paragraph at lines 897--942
-\T1/lmr/m/n/12 dell'epoca, Jorge Chumillas, che spiegavano come i milioni ricavati dalle sponsorizzazioni
- []
-
-
-Overfull \hbox (17.01009pt too wide) in paragraph at lines 897--942
-\T1/lmr/m/n/12 leggermente dal caso del Manchester City: i proprietari del club hanno una disponibilit^^e1
+Underfull \hbox (badness 2269) in paragraph at lines 897--942
+\T1/lmr/m/n/12 dell'epoca, Jorge Chumillas, che spiegavano come i milioni ricavati dalle
  []
 
 [49]
@@ -1809,16 +1711,7 @@ Overfull \hbox (0.21101pt too wide) in paragraph at lines 943--961
 \T1/lmr/m/n/12 In conclusione, ^^e9 comunque innegabile come l'introduzione del \T1/lmr/m/it/12 Fair Play Finanziario
  []
 
-[52]
-Overfull \hbox (11.26451pt too wide) in paragraph at lines 966--977
-\T1/lmr/m/n/12 Una situazione quasi del tutto opposta ^^e9 analizzabile se si va ad guardare il campionato
- []
-
-[53]
-Overfull \hbox (10.45953pt too wide) in paragraph at lines 980--981
-[]\T1/lmr/m/n/12 25% in base ad un concetto chiamato "compenso impianti per le partite televisive" 
- []
-
+[52] [53]
 <img/diritti_tv_pl.png, id=670, 323.2075pt x 495.8525pt>
 File: img/diritti_tv_pl.png Graphic file (type png)
 <use img/diritti_tv_pl.png>
@@ -1842,16 +1735,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 982--1014
 [54] [55 <./img/diritti_tv_pl.png> <./img/diritti_tv_SA.png>] [56]
 Capitolo 4.
 
-Overfull \hbox (18.6136pt too wide) in paragraph at lines 1022--1022
-\T1/lmr/m/n/10.00012 https://en.wikipedia.org/wiki/Proposals_for_a_European_Super_League_in_association_football| 
- []
-
-
-Overfull \hbox (9.37595pt too wide) in paragraph at lines 1016--1035
-\T1/lmr/m/n/12 diritti televisivi, perch^^e9, secondo l'opinione del gruppo che aveva avanzato la proposta,
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [57
@@ -1860,13 +1743,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [58]
-Overfull \hbox (18.02092pt too wide) in paragraph at lines 1048--1065
-\T1/lmr/m/n/12 L'idea, per^^f3, per come ^^e9 stata avanzata in prima istanza era effettivamente considerabile
- []
-
-
-Overfull \hbox (20.4463pt too wide) in paragraph at lines 1048--1065
-\T1/lmr/m/n/12 fino ai 250 milioni di euro all'anno per il vincitore della competizione[][][][][]. Paradossalmente,
+Underfull \hbox (badness 2057) in paragraph at lines 1048--1065
+\T1/lmr/m/n/12 fino ai 250 milioni di euro all'anno per il vincitore della competizione[][][][][].
  []
 
 [59] [60]
@@ -1875,8 +1753,8 @@ Underfull \hbox (badness 3557) in paragraph at lines 1079--1079
  []
 
 
-Overfull \hbox (7.745pt too wide) in paragraph at lines 1069--1079
-\T1/lmr/m/n/12 ^^e9 indubbiamente legato all'enorme deficit di bilancio che non riescono (o non vogliono)
+Overfull \hbox (5.39542pt too wide) in paragraph at lines 1069--1079
+\T1/lmr/m/n/12 ^^e9 indubbiamente legato all'enorme deficit di bilancio che non riescono, o non vogliono,
  []
 
 [61]
@@ -1890,7 +1768,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Underfull \vbox (badness 1308) has occurred while \output is active []
 
- [62] [63]
+ [62]
+Underfull \hbox (badness 1968) in paragraph at lines 1130--1130
+\T1/lmr/m/n/12 Infine anche l'ex bandiera del Manchester United \T1/lmr/bx/n/12 Gary Neville \T1/lmr/m/n/12 ^^e9 sulla
+ []
+
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 1148--1148
 [][]\T1/lmr/m/n/10.00012 AGI: https://www.agi.it/sport/calcio/news/2021-04-20/super-league-boris-johnson-alza-
  []
@@ -1931,33 +1814,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1229--1229
  []
 
 
-Overfull \hbox (15.83887pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 possibile capire come l'idea della Superlega non sia del tutto sbagliata e discriminatoria.
- []
-
-
-Overfull \hbox (35.21535pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 Utilizzando un esempio pratico, se nel campionato di Serie A le squadre che originariamente
- []
-
-
-Overfull \hbox (16.59915pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 quindi nessun fattore esterno al campo come possono essere tifosi o sponsor; ovviamente
- []
-
-
-Overfull \hbox (15.31604pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 sempre in modo relativo dato che questi due fattori compongono la maggior percentuale
- []
-
-
-Overfull \hbox (27.32706pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 vorebbe utilizzare questa linea di ragionamento anche per quanto riguarda le competizioni
- []
-
-
-Overfull \hbox (0.88217pt too wide) in paragraph at lines 1171--1232
-\T1/lmr/m/n/12 ricavi, suddivisi nel 90% la prossima stagione calcistica e l'80% in quella successiva[][][][][]. 
+Underfull \hbox (badness 1466) in paragraph at lines 1171--1232
+\T1/lmr/m/n/12 possibile capire come l'idea della Superlega non sia del tutto sbagliata e
  []
 
 [66]
@@ -1980,11 +1838,6 @@ Underfull \hbox (badness 3098) in paragraph at lines 1264--1264
 [][]\T1/lmr/m/n/10.00012 Gazzetta dello Sport: https://www.gazzetta.it/Calcio/Coppe/23-04-2021/tifosi-italiani-
  []
 
-
-Overfull \hbox (5.87355pt too wide) in paragraph at lines 1256--1269
-\T1/lmr/m/n/12 L'ultimo capitolo si ^^e9 occupato infine di trattare il "nuovo" fenomeno della \T1/lmr/bx/n/12 Superlega
- []
-
 [73] [74] [75
 
 ]
@@ -1999,7 +1852,7 @@ Package rerunfilecheck Info: File `prova.out' has not changed.
 Here is how much of TeX's memory you used:
  38079 strings out of 480517
  879023 string characters out of 2893735
- 1316067 words of memory out of 3000000
+ 1316065 words of memory out of 3000000
  54989 multiletter control sequences out of 15000+600000
  695860 words of font info for 131 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
@@ -2221,7 +2074,7 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathsy.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-rm.enc}{/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ts1.enc}</Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/eurosym/feymr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbx8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmbxi10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmcsc10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmmi8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr17.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr7.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmr8.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmri12.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmro10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy10.pfb></Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/lm/lmsy8.pfb>
-Output written on prova.pdf (77 pages, 3716596 bytes).
+Output written on prova.pdf (77 pages, 3716676 bytes).
 PDF statistics:
  1022 PDF objects out of 1200 (max. 8388607)
  330 named destinations out of 1000 (max. 500000)
