@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1655882974 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1655882987
-  "/Users/riccardo/Desktop/Tesi/prova.tex" 1655882955 120920 e01bfa359cfbed080210659a8eb6ef89 ""
+["pdflatex"] 1655883653 "/Users/riccardo/Desktop/Tesi/prova.tex" "prova.pdf" "prova" 1655883665
+  "/Users/riccardo/Desktop/Tesi/prova.tex" 1655883647 120928 4e03ff5c9d4cfd0b8372fcad4d7350d5 ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1647557534 5307307 d6c02e4d20894df458f1c67aa235c63e ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1648224760 7032067 bdb8cd2734f40ffffbcc7ca456fe5c4f ""
   "/Users/riccardo/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/lm/lm-ec.enc" 1647553261 2375 baa924870cfb487815765f9094cf3728 ""
@@ -311,12 +311,12 @@
   "img/wage_germanyB.png" 1649106313 79801 12823b3e48a00a5251dcac745c55ceeb ""
   "img/wage_serieA.png" 1649020356 149280 911f8ba25427152dbf0ebfb2de2b4abd ""
   "img/wage_spain.png" 1649008671 130297 fd107e6193e5eff32091969664f35e29 ""
-  "prova.aux" 1655882986 16584 fff90329170bad8293e121a646206b11 "pdflatex"
-  "prova.lof" 1655882986 2492 d4321980d65a58a0899465816277a67d "pdflatex"
-  "prova.lot" 1655882986 619 7d3a0941e6a4e68847d4711add2905d0 "pdflatex"
-  "prova.out" 1655882986 4711 41538b184d14f43442c6bb062ec875c3 "pdflatex"
-  "prova.tex" 1655882955 120920 e01bfa359cfbed080210659a8eb6ef89 ""
-  "prova.toc" 1655882986 2347 e2724c2d81b9a1bf70ce5ec512525047 "pdflatex"
+  "prova.aux" 1655883664 16584 fff90329170bad8293e121a646206b11 "pdflatex"
+  "prova.lof" 1655883664 2492 d4321980d65a58a0899465816277a67d "pdflatex"
+  "prova.lot" 1655883664 619 7d3a0941e6a4e68847d4711add2905d0 "pdflatex"
+  "prova.out" 1655883664 4711 41538b184d14f43442c6bb062ec875c3 "pdflatex"
+  "prova.tex" 1655883647 120928 4e03ff5c9d4cfd0b8372fcad4d7350d5 ""
+  "prova.toc" 1655883664 2347 e2724c2d81b9a1bf70ce5ec512525047 "pdflatex"
   (generated)
   "prova.aux"
   "prova.lof"
