@@ -1,0 +1,29 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\contentsline {chapter}{Elenco delle tabelle}{3}{section*.1}%
+\contentsline {chapter}{Elenco delle figure}{4}{section*.2}%
+\contentsline {part}{I\hspace {1em}Parte Prima}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Introduzione generale}{6}{chapter.1}%
+\contentsline {part}{II\hspace {1em}Parte Seconda}{9}{part.2}%
+\contentsline {chapter}{\numberline {2}Situazione economica Europea pre-pandemia COVID19}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Analisi generale delle diverse realt\'a Europee}{10}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Analisi per Club}{19}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Juventus}{20}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Paris Saint Germain}{25}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Borussia Dortmund}{28}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Barcellona}{31}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Manchester City}{35}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Tabella riassuntiva}{39}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Fair Play Finanziario}{40}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Dalla nascita alle ultime riforme}{40}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Le riforme del 2014, del 2015 e del 2018}{45}{subsection.3.1.1}%
+\contentsline {section}{\numberline {3.2}Favoritismi verso alcuni club}{49}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Punti critici del Fair Play Finanziario}{53}{section.3.3}%
+\contentsline {chapter}{\numberline {4}La Superlega: una nuova idea per salvare il mondo del calcio}{58}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Definizione e struttura}{60}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Reazione di Media e persone}{63}{section.4.2}%
+\contentsline {section}{\numberline {4.3}La Superlega \'e necessaria?}{67}{section.4.3}%
+\contentsline {part}{III\hspace {1em}Parte Terza}{72}{part.3}%
+\contentsline {chapter}{\numberline {5}Conclusione Finale}{73}{chapter.5}%
+\contentsline {chapter}{Bibliografia}{76}{chapter.5}%

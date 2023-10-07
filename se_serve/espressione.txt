@@ -1,3 +1,0 @@
-\[
-\Phi = K\frac{\Xi^2 +\Psi\ped{max}}{1+\gei\Omega}
-\]
